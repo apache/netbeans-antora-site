@@ -24,7 +24,7 @@ for important requirements for download pages for Apache projects.
 
 ////
 = Downloading Apache NetBeans 18
-:jbake-type: page_noaside
+:page-layout: page_noaside
 :jbake-tags: download
 :jbake-status: published
 :keywords: Apache NetBeans 18 Download
@@ -124,12 +124,12 @@ in a directory of your liking.
 == Community Approval
 
 As in any other Apache Project, the Apache NetBeans Community approved this release
-through the following voting processes in our xref:../../community/mailing-lists.adoc[mailing lists]:
+through the following voting processes in our xref:community/mailing-lists.adoc[mailing lists]:
 
 - link:https://lists.apache.org/thread/7wkto2fjg3yxrvk100dgzlvvpm9br9zx[PMC vote]
 - link:https://lists.apache.org/thread/cj5mpdl2gpx86p1q11m3l9vvryxxgblz[PMC vote result]
 
 == Earlier Releases
 
-Please visit the xref:../index.adoc[Apache NetBeans Download page] for further details.
+Please visit the xref:download/index.adoc[Apache NetBeans Download page] for further details.
 

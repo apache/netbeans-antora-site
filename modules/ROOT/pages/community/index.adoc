@@ -17,7 +17,7 @@
      under the License.
 ////
 = Apache NetBeans Community
-:jbake-type: page
+:page-layout: page
 :jbake-tags: community
 :jbake-status: published
 :keywords: Apache NetBeans Community
@@ -27,17 +27,17 @@
 
 == Stay Informed
 
-The Apache NetBeans Community uses the xref:mailing-lists.adoc[mailing lists] as the primary source of communication. See how to stay informed and in touch with other NetBeans users and developers.
+The Apache NetBeans Community uses the xref:./mailing-lists.adoc[mailing lists] as the primary source of communication. See how to stay informed and in touch with other NetBeans users and developers.
 
 == Participate
-We welcome all kind of contributions. xref:../participate/index.adoc[See how you can participate in Apache NetBeans].
+We welcome all kind of contributions. xref:participate/index.adoc[See how you can participate in Apache NetBeans].
 
 == NetBeans Events
-NetBeans users and developers participate in different events. xref:events.adoc[See how this works].
+NetBeans users and developers participate in different events. xref:./events.adoc[See how this works].
 
 == Who We Are
 The Apache NetBeans source code was donated by Oracle to the link:https://www.apache.org[Apache Software Foundation] in 2016.
-Since then many contributors have joined the project. Find out xref:who.adoc[who is who], and xref:committer.adoc[how to become a committer].
+Since then many contributors have joined the project. Find out xref:./who.adoc[who is who], and xref:./committer.adoc[how to become a committer].
 
 == NekoBean
-xref:nekobean.adoc[NekoBean] is a mascot of Apache NetBeans Community.
+xref:./nekobean.adoc[NekoBean] is a mascot of Apache NetBeans Community.

@@ -24,7 +24,7 @@ for important requirements for download pages for Apache projects.
 
 ////
 = Apache NetBeans Releases
-:jbake-type: page
+:page-layout: page
 :jbake-tags: download
 :jbake-status: published
 :keywords: Apache NetBeans releases
@@ -41,17 +41,17 @@ Apache NetBeans is released four times a year. For details, see link:https://cwi
 
 Latest version of the IDE, released on September 1, 2023.
 
-xref:nb19/index.adoc[Download, role="button success"]
+xref:download/nb19/index.adoc[Download, role="button success"]
 
 == Older releases
 
 Older Apache NetBeans releases can still be downloaded, but are no longer supported.
 
-xref:archive/index.adoc[Find out more, role="button"]
+xref:download/archive/index.adoc[Find out more, role="button"]
 
 == Daily builds and building from source
 
 All Apache NetBeans source code is freely available to build yourself, or you can
 download (unsupported) daily development builds.
 
-xref:dev/index.adoc[Find out more, role="button"]
+xref:download/dev/index.adoc[Find out more, role="button"]

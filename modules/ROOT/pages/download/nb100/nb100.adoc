@@ -24,7 +24,7 @@ for important requirements for download pages for Apache projects.
 
 ////
 = Downloading Apache NetBeans (incubating) 10.0 
-:jbake-type: page
+:page-layout: page
 :jbake-tags: download
 :jbake-status: published
 :keywords: Apache NetBeans 10.0 Download
@@ -33,7 +33,7 @@ for important requirements for download pages for Apache projects.
 :toc-title:
 
 Apache NetBeans (incubating) 10.0 was announced on the 27th of December, 2018.
-See xref:index.adoc[Apache NetBeans 10.0 Features] for a full list of features.
+See xref:./index.adoc[Apache NetBeans 10.0 Features] for a full list of features.
 
 ////
 NOTE: It's mandatory to link to the source. It's optional to link to the binaries.
@@ -76,7 +76,7 @@ Once you have everything installed then:
 
 == Community approval
 
-As in any other Apache Project, the Apache NetBeans Community approved this release through the following voting processes in our xref:../../community/mailing-lists.adoc[mailing lists] :
+As in any other Apache Project, the Apache NetBeans Community approved this release through the following voting processes in our xref:community/mailing-lists.adoc[mailing lists] :
 
 - link:https://lists.apache.org/thread.html/a06ad60089470b0b52fe7e6f4c271d2fd1dcce722a5fe9b3aa008b3d@%3Cdev.netbeans.apache.org%3E[PPMC vote]
 - link:https://lists.apache.org/thread.html/305d657e57d04df3d4a13c76ab732e64ef72d107fe0f769d5f4bbd80@%3Cdev.netbeans.apache.org%3E[PPMC vote result]

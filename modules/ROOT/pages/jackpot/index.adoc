@@ -17,7 +17,7 @@
      under the License.
 ////
 = Java Declarative Refactorings
-:jbake-type: page
+:page-layout: page
 :jbake-tags: main
 :jbake-status: published
 :keywords: Apache NetBeans, Jackpot, refactoring, Java
@@ -40,7 +40,7 @@ Maven, the command line tools or NetBeans all look into this location for custom
 
 For maven projects, this typically means placing the file into `src/main/resources/META-INF/upgrade/<name>.hint`.
 
-The format of the file is described xref:HintsFileFormat.adoc[here].
+The format of the file is described xref:./HintsFileFormat.adoc[here].
 
 == Using Maven to Run Declarative Refactorings
 

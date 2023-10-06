@@ -17,7 +17,7 @@
      under the License.
 ////
 = Oracle Transition
-:jbake-type: page
+:page-layout: page
 :jbake-tags: about
 :jbake-status: published
 :keywords: Apache NetBeans History
@@ -28,7 +28,7 @@
 
 == Standing on our own feet
 
-In 2016 Oracle donated the source code of NetBeans to the Apache Software Foundation (see xref:history.adoc[Our History] for details).
+In 2016 Oracle donated the source code of NetBeans to the Apache Software Foundation (see xref:./history.adoc[Our History] for details).
 
 During the next five years Oracle has also been supporting the NetBeans Project with some server infrastructure (and a great team!). This has been of course of great help, and has allowed us to move forward. We want to thank Oracle for all this help.
 

@@ -17,7 +17,7 @@
      under the License.
 ////
 = Web Deployment Descriptor API - Architecture Review Opinion
-:jbake-type: page
+:page-layout: page
 :jbake-tags: community
 :jbake-status: published
 :keywords: former site entry openide.netbeans.org/tutorial/reviews/opinions_37386.html

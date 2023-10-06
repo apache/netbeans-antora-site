@@ -17,7 +17,7 @@
      under the License.
 ////
 = Getting Help
-:jbake-type: page
+:page-layout: page
 :jbake-tags: community
 :jbake-status: published
 :keywords: Apache NetBeans Help
@@ -45,30 +45,30 @@ NOTE: The learning trails, tutorials, and related documentation are works in pro
 These other resources are available:
 
 - Javadoc is updated hourly at https://bits.netbeans.org/dev/javadoc
-- Short videos on how to xref:getting-started.adoc[get started with the Apache NetBeans Platform] to build Java Desktop Applications.
+- Short videos on how to xref:./getting-started.adoc[get started with the Apache NetBeans Platform] to build Java Desktop Applications.
 // not reachable- Visit the link:https://netbeans.org/kb/index.html[netbeans.org docs & support] section in the old website.
 - Our link:https://www.youtube.com/user/NetBeansVideos[YouTube Video Channel] contains many tutorials and tips.
-// not reachable-- The previous xref:../wiki/index.adoc[wiki] has been partially migrated and is being updated.
+// not reachable-- The previous xref:wiki::wiki/index.adoc[wiki] has been partially migrated and is being updated.
 - The link:https://github.com/apache/netbeans-website-cleanup[content of the previous netbeans.org website] is being cleaned up in github.
 - The link:https://github.com/apache/netbeans-website[current Apache NetBeans website] (i.e., this website) is also hosted at github.
 
 [[wiki]]
 == Apache NetBeans Wiki
 
-Some parts of the NetBeans Wiki xref:../wiki/index.adoc[have been ported], but need review.
+Some parts of the NetBeans Wiki xref:wiki::wiki/index.adoc[have been ported], but need review.
 
 [[jackpot]]
 == Java Declarative Refactorings
 
-Documentation on how to declare and use Java Declarative Refactorings xref:../jackpot/index.adoc[is here].
+Documentation on how to declare and use Java Declarative Refactorings xref:jackpot/index.adoc[is here].
 
 [[support]]
 == Support
 
 Community Support::
-Is available through our xref:../community/mailing-lists.adoc[mailing lists].
+Is available through our xref:community/mailing-lists.adoc[mailing lists].
 
 Commercial Support::
-Is also available. See xref:commercial-support.adoc[this link] for more info.
+Is also available. See xref:./commercial-support.adoc[this link] for more info.
 
 

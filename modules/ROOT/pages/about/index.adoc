@@ -17,7 +17,7 @@
      under the License.
 ////
 = About Apache NetBeans
-:jbake-type: page
+:page-layout: page
 :jbake-tags: about
 :jbake-status: published
 :keywords: Apache NetBeans About
@@ -38,7 +38,7 @@ driving the Java ecosystem forward.
 
 In 2016, Oracle donated the NetBeans source code to the link:https://www.apache.org/[Apache Software Foundation]. 
 In April 2019 Apache NetBeans became a top level Apache project.  Please see
-our xref:history.adoc[History section] for more information.
+our xref:./history.adoc[History section] for more information.
 
 == About Apache NetBeans
 
@@ -55,7 +55,7 @@ The source code to both is available to anyone to reuse as they see fit, within 
 
 The Apache NetBeans project is also a vibrant community in which people from across
 the globe can ask questions, give advice, contribute and ultimately share in
-the success of our products. On the xref:../community/mailing-lists.adoc[NetBeans mailing lists] and forums, you will
+the success of our products. On the xref:community/mailing-lists.adoc[NetBeans mailing lists] and forums, you will
 find posts from students, developers from top companies, and individuals
 looking to expand their skills.
 
@@ -80,7 +80,7 @@ keyboard shortcuts; window management, and so on.
 
 [.feature]
 ---
-image::gephi-metrics-small.png[role="left", link="gephi-metrics.png"]
+image::./gephi-metrics-small.png[role="left", link="gephi-metrics.png"]
 ---
 
 The NetBeans Platform provides all of these out of the box. You don't need to

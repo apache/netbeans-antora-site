@@ -1,4 +1,4 @@
 name: front
 title: Documentation
-#version: main
+version: main
 start_page: index.adoc

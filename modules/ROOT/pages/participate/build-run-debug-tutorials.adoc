@@ -17,7 +17,7 @@
      under the License.
 ////
 = Submitting Pull Requests / Apache NetBeans
-:jbake-type: page
+:page-layout: page
 :jbake-tags: community
 :jbake-status: published
 :keywords: Apache NetBeans run debug video tutorials

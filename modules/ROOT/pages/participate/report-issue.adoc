@@ -17,14 +17,14 @@
      under the License.
 ////
 = Reporting issues
-:jbake-type: page
+:page-layout: page
 :jbake-tags: community
 :jbake-status: published
 :keywords: Apache NetBeans issue report
 :description: Apache NetBeans Reporting Issues
 
 
-Please make sure the issue can be replicated with the xref:../download/index.adoc[latest] Apache NetBeans release
+Please make sure the issue can be replicated with the xref:download/index.adoc[latest] Apache NetBeans release
 running on a supported JDK version (currently Java 11+),
 and has not already been reported. Provide enough information for someone to be able
 to reproduce the problem. Sufficient information might include:

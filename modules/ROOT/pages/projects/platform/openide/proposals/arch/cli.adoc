@@ -17,7 +17,7 @@
      under the License.
 ////
 = Command Line Interface and Locking User Directory
-:jbake-type: page
+:page-layout: page
 :jbake-tags: community
 :jbake-status: published
 :keywords: former site entry openide.netbeans.org/proposals/arch/cli.html

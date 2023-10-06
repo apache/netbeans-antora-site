@@ -17,7 +17,7 @@
      under the License.
 ////
 = Apache NetBeans 13 Features
-:jbake-type: page_noaside
+:page-layout: page_noaside
 :jbake-tags: 13 features
 :jbake-status: published
 :keywords: Apache NetBeans 13 IDE features
@@ -33,7 +33,7 @@
 
 Welcome to Apache NetBeans 13!
 
-xref:nb13.adoc[Download, role="button success"]
+xref:./nb13.adoc[Download, role="button success"]
 
 == Highlights
  - Bundled nb-javac, startup experience simpler and smoother.

@@ -24,7 +24,7 @@ for important requirements for download pages for Apache projects.
 
 ////
 = Downloading Apache NetBeans 11.2 
-:jbake-type: page_noaside
+:page-layout: page_noaside
 :jbake-tags: download
 :jbake-status: published
 :keywords: Apache NetBeans 11.2 Download
@@ -34,7 +34,7 @@ for important requirements for download pages for Apache projects.
 :icons: font
 
 Apache NetBeans 11.2 was released on October 25, 2019.
-See xref:index.adoc[Apache NetBeans 11.2 Features] for a full list of features.
+See xref:./index.adoc[Apache NetBeans 11.2 Features] for a full list of features.
 
 ////
 NOTE: It's mandatory to link to the source. It's optional to link to the binaries.
@@ -103,12 +103,12 @@ in a directory of your liking.
 == Community approval
 
 As in any other Apache Project, the Apache NetBeans Community approved this release
-through the following voting processes in our xref:../../community/mailing-lists.adoc[mailing lists] :
+through the following voting processes in our xref:community/mailing-lists.adoc[mailing lists] :
 
 - link:https://lists.apache.org/thread.html/a562f51f614364f931a35f8dfd310cfd15ebf44b150e40277e94ff40@%3Cdev.netbeans.apache.org%3E[PMC vote]
 - link:https://lists.apache.org/thread.html/ec2ea0f6546cdfc89cc2c86abd13019561427d5e8f4f25dc9408df9e@%3Cdev.netbeans.apache.org%3E[PMC vote result]
 
 == Earlier releases
 
-Please visit the xref:../index.adoc[Apache NetBeans Download page] for further details.
+Please visit the xref:download/index.adoc[Apache NetBeans Download page] for further details.
 

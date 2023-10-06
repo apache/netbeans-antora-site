@@ -18,7 +18,7 @@
      under the License.
 ////
 = Apache NetBeans 11.2 Features
-:jbake-type: page_noaside
+:page-layout: page_noaside
 :jbake-tags: 11.2 features
 :jbake-status: published
 :keywords: Apache NetBeans 11.2 IDE features
@@ -34,9 +34,9 @@
 
 Apache NetBeans 11.2 is the second Apache NetBeans release outside the Apache Incubator and the link:https://cwiki.apache.org/confluence/display/NETBEANS/Release+Schedule[second release of the new quarterly release cycle].
 
-TIP: The LTS release of the Apache NetBeans 11 cycle is Apache NetBeans 11.0. The 11.1 and 11.2 releases have not been tested as heavily as the LTS release and may therefore be less stable. Use 11.2 to use the latest features and to provide feedback for the next LTS release, scheduled for April 2020. Go here to download  xref:../nb110/nb110.adoc[Apache NetBeans 11.0], the current LTS release.
+TIP: The LTS release of the Apache NetBeans 11 cycle is Apache NetBeans 11.0. The 11.1 and 11.2 releases have not been tested as heavily as the LTS release and may therefore be less stable. Use 11.2 to use the latest features and to provide feedback for the next LTS release, scheduled for April 2020. Go here to download  xref:download/nb110/nb110.adoc[Apache NetBeans 11.0], the current LTS release.
 
-xref:nb112.adoc[Download, role="button success"]
+xref:./nb112.adoc[Download, role="button success"]
 
 == Release Drivers
 
@@ -48,14 +48,14 @@ The highlights of enhancements in the Java area are focused on support for JDK 1
 
 [.feature]
 --
-image::jdk13-yield.png[role="left", link="jdk13-yield.png"]
+image::./jdk13-yield.png[role="left", link="jdk13-yield.png"]
 -- 
 
 - link:https://openjdk.org/jeps/355[JEP 355]: Text Blocks (Preview Feature)
 
 [.feature]
 --
-image::jdk13-textblock.png[role="left", link="jdk13-textblock.png"]
+image::./jdk13-textblock.png[role="left", link="jdk13-textblock.png"]
 --  
 
 TIP: link:https://openjdk.org/jeps/12[JEP 12] provides for a preview language or VM feature, which "is a new feature of the Java SE Platform that is fully specified, fully implemented, and yet impermanent. It is available in a JDK feature release to provoke developer feedback based on real world use; this may lead to it becoming permanent in a future Java SE Platform".
@@ -96,7 +96,7 @@ The highlights of enhancements in the PHP area are focused on support for PHP 7.
 
 [.feature]
 --
-image::php-7.4.png[role="left", link="php-7.4.png"]
+image::./php-7.4.png[role="left", link="php-7.4.png"]
 --  
 
 Highlights of PHP 7.4 integration are listed below.

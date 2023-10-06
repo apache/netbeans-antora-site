@@ -17,7 +17,7 @@
      under the License.
 ////
 = Design document covering architecture of solutions in actions system
-:jbake-type: page
+:page-layout: page
 :jbake-tags: community
 :jbake-status: published
 :keywords: former site entry openide.netbeans.org/proposals/actions/design.html

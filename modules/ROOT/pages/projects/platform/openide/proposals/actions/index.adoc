@@ -17,7 +17,7 @@
      under the License.
 ////
 = The central place for rework of Actions API
-:jbake-type: page
+:page-layout: page
 :jbake-tags: community
 :jbake-status: published
 :keywords: former site entry openide.netbeans.org/proposals/actions/index.html

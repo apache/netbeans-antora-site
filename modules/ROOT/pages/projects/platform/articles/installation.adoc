@@ -17,7 +17,7 @@
      under the License.
 ////
 = Installation Structure
-:jbake-type: page
+:page-layout: page
 :jbake-tags: community
 :jbake-status: published
 :keywords: former site entry platform.netbeans.org/articles/installation.html

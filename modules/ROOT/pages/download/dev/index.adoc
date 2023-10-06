@@ -18,7 +18,7 @@
      under the License.
 ////
 = Apache NetBeans source and daily builds
-:jbake-type: page
+:page-layout: page
 :jbake-tags: 
 :jbake-status: published
 :keywords: Apache NetBeans source and daily builds
@@ -50,7 +50,7 @@ Once you're all set, enter the `netbeans` directory:
 
 For details, go here: link:https://cwiki.apache.org/confluence/display/NETBEANS/Development+Environment[https://cwiki.apache.org/confluence/display/NETBEANS/Development+Environment]
 
-Now that you have built Apache NetBeans from source you may want to xref:../../participate/submit-pr.adoc[submit a pull request].
+Now that you have built Apache NetBeans from source you may want to xref:participate/submit-pr.adoc[submit a pull request].
 
 === Repositories
 

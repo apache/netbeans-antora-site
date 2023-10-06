@@ -17,7 +17,7 @@
      under the License.
 ////
 = Quality Evangelism
-:jbake-type: page
+:page-layout: page
 :jbake-tags: community, needsreview
 :jbake-status: published
 :keywords: quality evangelism in Apache NetBeans
@@ -61,7 +61,7 @@ This is the suite of tests gathered among Apache NetBeans modules which develope
 Remember, your bugs may disturb other developers around the globe.
 
 The Commit Validation Suite can be extended by any module whose functionality the developers consider vital and should be tested before every commit. 
-You can read more about xref:submit-pr.adoc[commit guidelines]. 
+You can read more about xref:./submit-pr.adoc[commit guidelines]. 
 
 === Unit tests === 
 

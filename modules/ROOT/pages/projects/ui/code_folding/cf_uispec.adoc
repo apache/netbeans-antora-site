@@ -17,7 +17,7 @@
      under the License.
 ////
 =  Code Folding - User Interface Specification
-:jbake-type: page
+:page-layout: page
 :jbake-tags: community
 :jbake-status: published
 :keywords: former site entry ui.netbeans.org/docs/ui/code_folding/cf_uispec.html

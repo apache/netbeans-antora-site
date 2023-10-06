@@ -24,7 +24,7 @@ for important requirements for download pages for Apache projects.
 
 ////
 = Downloading Apache NetBeans 15 
-:jbake-type: page_noaside
+:page-layout: page_noaside
 :jbake-tags: download
 :jbake-status: published
 :keywords: Apache NetBeans 15 Download
@@ -119,12 +119,12 @@ Once built you can run the IDE by typing `./nbbuild/netbeans/bin/netbeans`
 == Community Approval
 
 As in any other Apache Project, the Apache NetBeans Community approved this release
-through the following voting processes in our xref:../../community/mailing-lists.adoc[mailing lists]:
+through the following voting processes in our xref:community/mailing-lists.adoc[mailing lists]:
 
 - link:https://lists.apache.org/thread/3yk4p82jzomx7vbgpognxh1ksq72fbpo[PMC vote]
 - link:https://lists.apache.org/thread/255kfrv93ygl4ndr8mqhhv89yrjlc712[PMC vote result]
 
 == Earlier Releases
 
-Please visit the xref:../index.adoc[Apache NetBeans Download page] for further details.
+Please visit the xref:download/index.adoc[Apache NetBeans Download page] for further details.
 

@@ -17,7 +17,7 @@
      under the License.
 ////
 = Apache NetBeans 12.4 Features
-:jbake-type: page_noaside
+:page-layout: page_noaside
 :jbake-tags: 12.4 features
 :jbake-status: published
 :keywords: Apache NetBeans 12.4 IDE features
@@ -33,9 +33,9 @@
 
 Welcome to Apache NetBeans 12.4, the fourth feature release of the Apache NetBeans 12 cycle!
 
-TIP: The LTS release of the Apache NetBeans 12 cycle is Apache NetBeans 12.0. The 12.4 release has not been tested as heavily as the LTS release and may therefore be less stable. Use 12.4 to use the latest features and to provide feedback for the next LTS release. Go here to download  xref:../nb120/nb120.adoc[Apache NetBeans 12.0], the current LTS release.
+TIP: The LTS release of the Apache NetBeans 12 cycle is Apache NetBeans 12.0. The 12.4 release has not been tested as heavily as the LTS release and may therefore be less stable. Use 12.4 to use the latest features and to provide feedback for the next LTS release. Go here to download  xref:download/nb120/nb120.adoc[Apache NetBeans 12.0], the current LTS release.
 
-xref:nb124.adoc[Download, role="button success"]
+xref:./nb124.adoc[Download, role="button success"]
 
 The full list of pull requests integrated in the 12.4 timeframe link:https://github.com/apache/netbeans/pulls?q=is%3Aclosed+milestone%3A12.4[is found here], while the highlights are listed below.
 

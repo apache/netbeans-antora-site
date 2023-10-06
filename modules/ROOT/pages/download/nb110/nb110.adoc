@@ -24,7 +24,7 @@ for important requirements for download pages for Apache projects.
 
 ////
 = Downloading Apache NetBeans (incubating) 11.0 
-:jbake-type: page
+:page-layout: page
 :jbake-tags: download
 :jbake-status: published
 :keywords: Apache NetBeans 11.0 Download
@@ -34,9 +34,9 @@ for important requirements for download pages for Apache projects.
 :icons: font
 
 Apache NetBeans (incubating) 11.0 was announced on April the 4th, 2019.
-See xref:index.adoc[Apache NetBeans 11.0 Features] for a full list of features.
+See xref:./index.adoc[Apache NetBeans 11.0 Features] for a full list of features.
 
-TIP: Since releasing 11.0, feature updates, that is, Apache NetBeans 11.1, 11.2, and 11.3 have been released. The LTS release of the Apache NetBeans 11 cycle is Apache NetBeans 11.0. The feature releases have not been tested as heavily as the LTS release and may therefore be less stable. Use 11.1, 11.2, and 11.3 to use the latest features and to provide feedback for the next LTS release, scheduled for 2020. Go here to download xref:../nb113/nb113.adoc[Apache NetBeans 11.3], the latest feature update in the 11 cycle, which needs to be installed instead of 11.0, i.e., there is no automatic update between releases.
+TIP: Since releasing 11.0, feature updates, that is, Apache NetBeans 11.1, 11.2, and 11.3 have been released. The LTS release of the Apache NetBeans 11 cycle is Apache NetBeans 11.0. The feature releases have not been tested as heavily as the LTS release and may therefore be less stable. Use 11.1, 11.2, and 11.3 to use the latest features and to provide feedback for the next LTS release, scheduled for 2020. Go here to download xref:download/nb113/nb113.adoc[Apache NetBeans 11.3], the latest feature update in the 11 cycle, which needs to be installed instead of 11.0, i.e., there is no automatic update between releases.
 
 ////
 NOTE: It's mandatory to link to the source. It's optional to link to the binaries.
@@ -61,7 +61,7 @@ NOTE: Using https below is highly recommended.
 ////
 Officially, it is important that you link:https://www.apache.org/dyn/closer.cgi#verify[verify the integrity] of the downloaded files using the PGP signatures (.asc file) or a hash (.sha512 files).  The PGP keys used to sign this release are available link:https://downloads.apache.org/incubator/netbeans/KEYS[here].
 
-TIP: Installers have been introduced for the first time in the next release, in Apache NetBeans 11.1. Go xref:../nb111/nb111.adoc[here] for details.
+TIP: Installers have been introduced for the first time in the next release, in Apache NetBeans 11.1. Go xref:download/nb111/nb111.adoc[here] for details.
 
 Also see the following YouTube clip:
 
@@ -85,7 +85,7 @@ Once you have everything installed then:
 
 == Community approval
 
-As in any other Apache Project, the Apache NetBeans Community approved this release through the following voting processes in our xref:../../community/mailing-lists.adoc[mailing lists] :
+As in any other Apache Project, the Apache NetBeans Community approved this release through the following voting processes in our xref:community/mailing-lists.adoc[mailing lists] :
 
 - link:https://lists.apache.org/thread.html/290786ea9eda2215a93ca18084945d655053597ca9745ecc6d555d79@%3Cdev.netbeans.apache.org%3E[PPMC vote]
 - link:https://lists.apache.org/thread.html/c406ae1a45c282811af1a77089173c67b44f674507c894407e05c844@%3Cdev.netbeans.apache.org%3E[PPMC vote result]
@@ -102,4 +102,4 @@ Please visit link:https://builds.apache.org/job/netbeans-linux/[https://builds.a
 
 == Earlier releases
 
-Please visit the xref:../index.adoc[Apache NetBeans Download page] for further details.
+Please visit the xref:download/index.adoc[Apache NetBeans Download page] for further details.

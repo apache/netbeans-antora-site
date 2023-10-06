@@ -17,7 +17,7 @@
      under the License.
 ////
 = NetBeans: AutoUpdate NBM package technology
-:jbake-type: page
+:page-layout: page
 :jbake-tags: community
 :jbake-status: published
 :keywords: former site entry autoupdate nbm/nbm_package

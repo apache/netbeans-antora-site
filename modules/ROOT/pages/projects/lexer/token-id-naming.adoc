@@ -17,7 +17,7 @@
      under the License.
 ////
 = TokenId Naming
-:jbake-type: page
+:page-layout: page
 :jbake-tags: community
 :jbake-status: published
 :keywords: former site entry lexer.netbeans.org/doc/token-id-naming.html

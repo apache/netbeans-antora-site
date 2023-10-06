@@ -17,7 +17,7 @@
      under the License.
 ////
 = Lexer Module
-:jbake-type: page
+:page-layout: page
 :jbake-tags: community
 :jbake-status: published
 :keywords: former site entry lexer.netbeans.org/

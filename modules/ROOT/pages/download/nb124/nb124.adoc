@@ -24,7 +24,7 @@ for important requirements for download pages for Apache projects.
 
 ////
 = Downloading Apache NetBeans 12.4 
-:jbake-type: page_noaside
+:page-layout: page_noaside
 :jbake-tags: download
 :jbake-status: published
 :keywords: Apache NetBeans 12.4 Download
@@ -33,7 +33,7 @@ for important requirements for download pages for Apache projects.
 :toc-title:
 :icons: font
 
-Apache NetBeans 12.4 was released May 19, 2021. See xref:index.adoc[Apache NetBeans 12.4 Features] for a full list of features.
+Apache NetBeans 12.4 was released May 19, 2021. See xref:./index.adoc[Apache NetBeans 12.4 Features] for a full list of features.
 
 ////
 NOTE: It's mandatory to link to the source. It's optional to link to the binaries.
@@ -96,11 +96,11 @@ Once built you can run the IDE by typing `./nbbuild/netbeans/bin/netbeans`
 == Community Approval
 
 As in any other Apache Project, the Apache NetBeans Community approved this release
-through the following voting processes in our xref:../../community/mailing-lists.adoc[mailing lists]:
+through the following voting processes in our xref:community/mailing-lists.adoc[mailing lists]:
 
 - link:https://lists.apache.org/thread.html/r683b571d1579cc36e3f3b4f787619129bb94d0d81ae89656085447f6%40%3Cdev.netbeans.apache.org%3E[PMC vote]
 - link:https://lists.apache.org/thread.html/r58929149884f684035ebe53d30c0db5ec7bd44da309f075363fab6df%40%3Cdev.netbeans.apache.org%3E[PMC vote result]
 
 == Earlier Releases
 
-Please visit the xref:../index.adoc[Apache NetBeans Download page] for further details.
+Please visit the xref:download/index.adoc[Apache NetBeans Download page] for further details.

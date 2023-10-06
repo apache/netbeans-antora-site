@@ -17,7 +17,7 @@
      under the License.
 ////
 = Build System Design
-:jbake-type: page
+:page-layout: page
 :jbake-tags: community
 :jbake-status: published
 :keywords: former site entry projects.netbeans.org/buildsys/design.html

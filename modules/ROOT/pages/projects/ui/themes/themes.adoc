@@ -17,7 +17,7 @@
      under the License.
 ////
 = NetBeans and Themes
-:jbake-type: page
+:page-layout: page
 :jbake-tags: community
 :jbake-status: published
 :keywords: former site entry ui.netbeans.org/docs/ui/themes/themes.html

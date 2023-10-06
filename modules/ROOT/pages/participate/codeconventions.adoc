@@ -17,7 +17,7 @@
      under the License.
 ////
 = Apache NetBeans  Code Conventions
-:jbake-type: page
+:page-layout: page
 :jbake-tags: community, needsreview
 :jbake-status: published
 :keywords: Code conventions for  Apache NetBeans 

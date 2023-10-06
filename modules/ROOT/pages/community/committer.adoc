@@ -17,7 +17,7 @@
      under the License.
 ////
 = How to become a committer
-:jbake-type: page
+:page-layout: page
 :jbake-tags: community
 :jbake-status: published
 :keywords: Apache NetBeans Events

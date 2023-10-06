@@ -17,7 +17,7 @@
      under the License.
 ////
 = Mailing Lists
-:jbake-type: page
+:page-layout: page
 :jbake-tags: community
 :jbake-status: published
 :keywords: Apache NetBeans Mailing Lists

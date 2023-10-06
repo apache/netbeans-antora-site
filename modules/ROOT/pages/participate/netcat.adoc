@@ -17,7 +17,7 @@
      under the License.
 ////
 = NetCAT 
-:jbake-type: page
+:page-layout: page
 :jbake-tags: community
 :jbake-status: published
 :keywords: Apache NetBeans NetCAT Community Acceptance Testing
@@ -25,7 +25,7 @@
 :toc: left
 :toc-title:
 
-image:netcat.png[] NetCAT is the Apache NetBeans Community Acceptance Testing.
+image:./netcat.png[] NetCAT is the Apache NetBeans Community Acceptance Testing.
 
 == What is the basic purpose of NetCAT?
 
@@ -46,7 +46,7 @@ NetBeans become the best IDE, simply fill out the registration form and also
 subscribe to link:mailto:netcat@netbeans.apache.org[netcat@netbeans.apache.org] 
 mailing list after submission of the registration form via Subscribe button. If
 you are interested in our previous discussions, browse through the web archive
-of the NetCAT mailing list. See xref:../community/mailing-lists.adoc[mailing lists] for
+of the NetCAT mailing list. See xref:community/mailing-lists.adoc[mailing lists] for
 more information about our mailing lists.
 
 == Can you describe my responsibilities if I join NetCAT?

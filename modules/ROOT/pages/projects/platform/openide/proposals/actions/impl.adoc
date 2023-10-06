@@ -17,7 +17,7 @@
      under the License.
 ////
 = Document describing implemented changes in action system
-:jbake-type: page
+:page-layout: page
 :jbake-tags: community
 :jbake-status: published
 :keywords: former site entry core.netbeans.org/windowsystem/index.html

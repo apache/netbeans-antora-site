@@ -24,7 +24,7 @@ for important requirements for download pages for Apache projects.
 
 ////
 = Downloading Apache NetBeans 11.3 
-:jbake-type: page_noaside
+:page-layout: page_noaside
 :jbake-tags: download
 :jbake-status: published
 :keywords: Apache NetBeans 11.3 Download
@@ -34,7 +34,7 @@ for important requirements for download pages for Apache projects.
 :icons: font
 
 Apache NetBeans 11.3 was released on February 24, 2020.
-See xref:index.adoc[Apache NetBeans 11.3 Features] for a full list of features.
+See xref:./index.adoc[Apache NetBeans 11.3 Features] for a full list of features.
 
 ////
 NOTE: It's mandatory to link to the source. It's optional to link to the binaries.
@@ -80,11 +80,11 @@ Apache NetBeans 11.3 runs on the JDK LTS releases 8 and 11, as well as on JDK 14
 == Community approval
 
 As in any other Apache Project, the Apache NetBeans Community approved this release
-through the following voting processes in our xref:../../community/mailing-lists.adoc[mailing lists]:
+through the following voting processes in our xref:community/mailing-lists.adoc[mailing lists]:
 
 - link:https://lists.apache.org/thread.html/r5328170c3961804d3ed15cb13267b73197d58c0fcbd522dd75c1b44b%40%3Cdev.netbeans.apache.org%3E[PMC vote]
 - link:https://lists.apache.org/thread.html/r7ea6e3350fb16e6ead3dfaa06dba2d4e9475b55296cee902ea70fa75%40%3Cdev.netbeans.apache.org%3E[PMC vote result]
 
 == Earlier releases
 
-Please visit the xref:../index.adoc[Apache NetBeans Download page] for further details.
+Please visit the xref:download/index.adoc[Apache NetBeans Download page] for further details.

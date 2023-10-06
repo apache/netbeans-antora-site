@@ -17,7 +17,7 @@
      under the License.
 ////
 = Getting Started with the Apache NetBeans Platform / Apache NetBeans
-:jbake-type: page
+:page-layout: page
 :jbake-tags: community
 :jbake-status: published
 :keywords: Apache NetBeans Getting Started with Platform
