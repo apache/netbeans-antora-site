@@ -25,7 +25,7 @@
 :toc: left
 :toc-title:
 :icons: font
-include::../inc/database.adoc[]
+include::partial$database.adoc[]
 
 == The student project
 
@@ -187,7 +187,7 @@ NetBeans IDE as the official IDE for the Java Platform.
 NetBeans 7 was released together with JDK 7, providing editor tools for working
 with new JDK 7 language constructs, together with support for JavaFX 2.0.
 
-NetBeans 7.1 introduced xref:../wiki/OSGiAndNetBeans.adoc[Netigso] from (Net and 
+NetBeans 7.1 introduced xref:wiki::wiki/OSGiAndNetBeans.adoc[Netigso] from (Net and 
 a reversed OSGi). This was reused in Oracle's JDeveloper as well,
 with link:http://wiki.apidesign.org/wiki/JDeveloper[important performance enhancements].
 

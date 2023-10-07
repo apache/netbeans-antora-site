@@ -216,13 +216,13 @@ link:https://issues.apache.org/jira/issues/?jql=project%20%3D%20NETBEANS%20AND%2
 
 The NetBeans tutorials have also been integrated for this release and are available here:
 
-- xref:../../kb/docs/ide/index.adoc[NetBeans IDE tutorials]
-- xref:../../kb/docs/web/index.adoc[Web Technologies tutorials]
-- xref:../../kb/docs/java/index.adoc[Java tutorials]
-- xref:../../kb/docs/javaee/index.adoc[Java EE tutorials]
-- xref:../../kb/docs/php/index.adoc[PHP tutorials]
+- xref:tutorial::kb/docs/ide/index.adoc[NetBeans IDE tutorials]
+- xref:tutorial::kb/docs/web/index.adoc[Web Technologies tutorials]
+- xref:tutorial::kb/docs/java/index.adoc[Java tutorials]
+- xref:tutorial::kb/docs/javaee/index.adoc[Java EE tutorials]
+- xref:tutorial::kb/docs/php/index.adoc[PHP tutorials]
 
-Many of these tutorials are being reviewed. See xref:../../kb/docs/contributing.adoc[these guidelines] if
+Many of these tutorials are being reviewed. See xref:tutorial::kb/docs/contributing.adoc[these guidelines] if
 you want to help with the review.
 
 == Maven plugins
