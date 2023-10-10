@@ -18,7 +18,7 @@
 ////
 = How Wizards Work (Part 4): Your Own Iterator 
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: blog entry how_wizards_work_part_4
 :description: blog entry how_wizards_work_part_4

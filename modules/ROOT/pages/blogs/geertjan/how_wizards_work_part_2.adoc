@@ -18,7 +18,7 @@
 ////
 = How Wizards Work (Part 2): Different Types 
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: blog entry how_wizards_work_part_2
 :description: blog entry how_wizards_work_part_2

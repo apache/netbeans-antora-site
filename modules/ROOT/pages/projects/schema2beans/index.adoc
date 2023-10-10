@@ -18,7 +18,7 @@
 ////
 = Schema2beans
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: former site entry schema2beans.netbeans.org
 :description: former site entry schema2beans.netbeans.org

@@ -18,7 +18,7 @@
 ////
 = org.netbeans.spi.project.ui.ProjectOpenedHook 
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: blog entry org_netbeans_spi_project_ui
 :description: blog entry org_netbeans_spi_project_ui

@@ -19,9 +19,9 @@
 
 = What to do with JavaFX and OpenJFX in Apache NetBeans?
 :author: Geertjan Wielenga 
-:revdate: 2019-08-25
+:page-revdate: 2019-08-25
 :page-layout: blogentry
-:jbake-tags: blogentry
+:page-tags: blogentry
 :jbake-status: published
 :keywords: NetBeans at Oracle Code One 2019
 :description: NetBeans at Oracle Code One 2019

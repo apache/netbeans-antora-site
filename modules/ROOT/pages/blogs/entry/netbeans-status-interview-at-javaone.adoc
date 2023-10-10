@@ -19,9 +19,9 @@
 
 = Audio of Virtual Apache NetBeans Meeting 1
 :author: Geertjan Wielenga
-:revdate: 2017-10-03
+:page-revdate: 2017-10-03
 :page-layout: blogentry
-:jbake-tags: blogentry
+:page-tags: blogentry
 :jbake-status: published
 :keywords: Apache NetBeans blog index
 :description: Apache NetBeans blog index

@@ -19,9 +19,9 @@
 
 = New Apache NetBeans (incubating) Logo!
 :author: Geertjan Wielenga
-:revdate: 2018-03-06
+:page-revdate: 2018-03-06
 :page-layout: blogentry
-:jbake-tags: blogentry
+:page-tags: blogentry
 :jbake-status: published
 :keywords: Apache NetBeans blog index
 :description: Apache NetBeans blog index

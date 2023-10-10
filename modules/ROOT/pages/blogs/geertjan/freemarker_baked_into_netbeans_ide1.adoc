@@ -18,7 +18,7 @@
 ////
 = FreeMarker: Baked into NetBeans IDE 6.0 (Part 2)
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: blog entry freemarker_baked_into_netbeans_ide1
 :description: blog entry freemarker_baked_into_netbeans_ide1

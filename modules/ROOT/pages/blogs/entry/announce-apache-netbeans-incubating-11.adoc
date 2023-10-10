@@ -19,9 +19,9 @@
 
 = [ANNOUNCE] Apache NetBeans (incubating) 11.0 Released
 :author: Geertjan Wielenga
-:revdate: 2019-04-05
+:page-revdate: 2019-04-05
 :page-layout: blogentry
-:jbake-tags: blogentry
+:page-tags: blogentry
 :jbake-status: published
 :keywords: Apache NetBeans 18 release
 :description: Apache NetBeans 18 release

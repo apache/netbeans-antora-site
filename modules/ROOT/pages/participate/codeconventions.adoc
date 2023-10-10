@@ -18,7 +18,7 @@
 ////
 = Apache NetBeans  Code Conventions
 :page-layout: page
-:jbake-tags: community, needsreview
+:page-tags: community, needsreview
 :jbake-status: published
 :keywords: Code conventions for  Apache NetBeans 
 :description: Code conventions for to Apache NetBeans 

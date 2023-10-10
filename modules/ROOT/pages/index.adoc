@@ -18,7 +18,7 @@
 ////
 = Welcome to Apache NetBeans
 :page-layout: page_front
-:jbake-tags: main
+:page-tags: main
 :jbake-status: published
 :keywords: Apache NetBeans
 :icons: font

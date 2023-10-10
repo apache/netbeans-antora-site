@@ -18,7 +18,7 @@
 ////
 = Nescide: An IDE for Hacking the TinyOS Platform 
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: blog entry nescide_an_ide_for_the
 :description: blog entry nescide_an_ide_for_the

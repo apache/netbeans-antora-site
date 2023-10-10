@@ -18,7 +18,7 @@
 ////
 = Swing Outline Component  
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: blog swing_outline_component
 :description: blog entry swing_outline_component

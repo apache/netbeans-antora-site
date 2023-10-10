@@ -18,7 +18,7 @@
 ////
 = Creating A New Mode In Your Application 
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: blog entry creating_a_new_mode_in
 :description: blog entry creating_a_new_mode_in

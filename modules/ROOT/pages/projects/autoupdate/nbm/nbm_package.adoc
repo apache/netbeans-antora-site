@@ -18,7 +18,7 @@
 ////
 = NetBeans: AutoUpdate NBM package technology
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: former site entry autoupdate nbm/nbm_package
 :description: former site entry  autoupdate nbm/nbm_package

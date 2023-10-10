@@ -18,7 +18,7 @@
 ////
 = Thanks JavaFX: WYSIWYG HTML Editor for NetBeans IDE 
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: blog entry thanks_javafx_wysiwyg_html_editor
 :description: blog entry thanks_javafx_wysiwyg_html_editor

@@ -18,7 +18,7 @@
 ////
 = Who's Who
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :icons: font
 :keywords: Apache NetBeans Team Who is Who

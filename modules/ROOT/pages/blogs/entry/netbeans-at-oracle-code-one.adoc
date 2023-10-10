@@ -19,9 +19,9 @@
 
 = NetBeans at Oracle Code One 2019
 :author: Geertjan Wielenga 
-:revdate: 2019-09-11
+:page-revdate: 2019-09-11
 :page-layout: blogentry
-:jbake-tags: blogentry
+:page-tags: blogentry
 :jbake-status: published
 :keywords: NetBeans at Oracle Code One 2019
 :description: NetBeans at Oracle Code One 2019

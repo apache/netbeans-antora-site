@@ -18,7 +18,7 @@
 ////
 = Icons for NetBeans Platform Applications on Windows 
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: blog entry icons_for_netbeans_platform_applications
 :description: blog entry icons_for_netbeans_platform_applications

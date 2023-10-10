@@ -18,7 +18,7 @@
 ////
 = The central place for rework of Actions API
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: former site entry openide.netbeans.org/proposals/actions/index.html
 :description: former site entry  openide.netbeans.org/proposals/actions/index.html

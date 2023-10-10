@@ -18,7 +18,7 @@
 ////
 = Design document covering architecture of solutions in actions system
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: former site entry openide.netbeans.org/proposals/actions/design.html
 :description: former site entry openide.netbeans.org/proposals/actions/design.html

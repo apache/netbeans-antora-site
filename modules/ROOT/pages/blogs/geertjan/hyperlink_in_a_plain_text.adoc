@@ -18,7 +18,7 @@
 ////
 = Hyperlink in a Plain Text File 
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: blog entry hyperlink_in_a_plain_text
 :description: blog entry hyperlink_in_a_plain_text

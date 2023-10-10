@@ -18,7 +18,7 @@
 ////
 = Parsing the Command Line to Disable a Module
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: blog entry parsing_the_command_line_to1
 :description: blog entry parsing_the_command_line_to1

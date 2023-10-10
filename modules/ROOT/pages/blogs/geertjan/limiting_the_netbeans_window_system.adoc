@@ -18,7 +18,7 @@
 ////
 = Limiting the NetBeans Window System in NetBeans Platform 6.5 
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: blog entry limiting_the_netbeans_window_system
 :description: blog entry limiting_the_netbeans_window_system

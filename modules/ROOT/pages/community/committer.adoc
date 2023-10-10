@@ -18,7 +18,7 @@
 ////
 = How to become a committer
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: Apache NetBeans Events
 :description: Apache NetBeans Events

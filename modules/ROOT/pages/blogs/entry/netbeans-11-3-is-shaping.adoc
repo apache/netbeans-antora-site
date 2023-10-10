@@ -19,9 +19,9 @@
 
 = NetBeans 11.3 is Shaping up Nicely
 :author: lkishalmi 
-:revdate: 2019-11-30
+:page-revdate: 2019-11-30
 :page-layout: blogentry
-:jbake-tags: blogentry
+:page-tags: blogentry
 :jbake-status: published
 :keywords: Apache NetBeans 18 release
 :description: Apache NetBeans 18 release

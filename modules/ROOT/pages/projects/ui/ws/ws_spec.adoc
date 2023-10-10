@@ -18,7 +18,7 @@
 ////
 = User Interface Specification: Window System, Final Draft
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: former site entry ui.netbeans.org/docs/ui/ws/ws_spec.html
 :description: former site entry ui.netbeans.org/docs/ui/ws/ws_spec.html

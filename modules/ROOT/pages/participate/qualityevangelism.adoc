@@ -18,7 +18,7 @@
 ////
 = Quality Evangelism
 :page-layout: page
-:jbake-tags: community, needsreview
+:page-tags: community, needsreview
 :jbake-status: published
 :keywords: quality evangelism in Apache NetBeans
 :description: quality evangelism to Apache NetBeans

@@ -19,9 +19,9 @@
 
 = [ANNOUNCE] Apache NetBeans 12.6 Released
 :author: Geertjan Wielenga
-:revdate: 2021-12-06
+:page-revdate: 2021-12-06
 :page-layout: blogentry
-:jbake-tags: blogentry
+:page-tags: blogentry
 :jbake-status: published
 :keywords: Apache NetBeans blog index
 :description: Apache NetBeans blog index

@@ -18,7 +18,7 @@
 ////
 = New Window System API Changes
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: former site entry core.netbeans.org/windowsystem/changes.html
 :description: former site entry  core.netbeans.org/windowsystem/changes.html

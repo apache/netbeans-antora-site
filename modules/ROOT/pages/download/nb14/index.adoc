@@ -25,7 +25,7 @@ for important requirements for download pages for Apache projects.
 ////
 = Downloading Apache NetBeans 14 
 :page-layout: page_noaside
-:jbake-tags: download
+:page-tags: download
 :jbake-status: published
 :keywords: Apache NetBeans 14 Download
 :description: Apache NetBeans 14 Download

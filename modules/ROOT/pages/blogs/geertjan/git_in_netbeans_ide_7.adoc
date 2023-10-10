@@ -18,7 +18,7 @@
 ////
 = Git in NetBeans IDE 7.4 with Rebase!
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: blog entry git_in_netbeans_ide_7
 :description: blog entry git_in_netbeans_ide_7

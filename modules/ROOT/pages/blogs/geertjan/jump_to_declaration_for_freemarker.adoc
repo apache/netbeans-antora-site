@@ -18,7 +18,7 @@
 ////
 = Jump to Declaration for FreeMarker 
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: blog entry jump_to_declaration_for_freemarker
 :description: blog entry jump_to_declaration_for_freemarker

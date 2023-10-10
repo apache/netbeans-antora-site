@@ -19,9 +19,9 @@
 
 = 1.5M Lines of NetBeans Code from Oracle to Apache
 :author: Geertjan Wielenga
-:revdate: 2018-06-21
+:page-revdate: 2018-06-21
 :page-layout: blogentry
-:jbake-tags: blogentry
+:page-tags: blogentry
 :jbake-status: published
 :keywords: Apache NetBeans blog index
 :description: Apache NetBeans blog index

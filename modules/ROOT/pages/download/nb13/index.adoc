@@ -18,7 +18,7 @@
 ////
 = Apache NetBeans 13 Features
 :page-layout: page_noaside
-:jbake-tags: 13 features
+:page-tags: 13 features
 :jbake-status: published
 :keywords: Apache NetBeans 13 IDE features
 :icons: font

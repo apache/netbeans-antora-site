@@ -18,7 +18,7 @@
 ////
 = NetBeans and Themes
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: former site entry ui.netbeans.org/docs/ui/themes/themes.html
 :description: former site entry ui.netbeans.org/docs/ui/themes/themes.html

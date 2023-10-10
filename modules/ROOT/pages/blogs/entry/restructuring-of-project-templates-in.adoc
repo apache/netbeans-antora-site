@@ -19,9 +19,9 @@
 
 = Restructuring of Project Templates in Apache NetBeans
 :author: Geertjan Wielenga
-:revdate: 2019-02-01
+:page-revdate: 2019-02-01
 :page-layout: blogentry
-:jbake-tags: blogentry
+:page-tags: blogentry
 :jbake-status: published
 :keywords: Apache NetBeans blog index
 :description: Apache NetBeans blog index

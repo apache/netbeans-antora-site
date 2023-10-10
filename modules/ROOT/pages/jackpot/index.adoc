@@ -18,7 +18,7 @@
 ////
 = Java Declarative Refactorings
 :page-layout: page
-:jbake-tags: main
+:page-tags: main
 :jbake-status: published
 :keywords: Apache NetBeans, Jackpot, refactoring, Java
 :icons: font

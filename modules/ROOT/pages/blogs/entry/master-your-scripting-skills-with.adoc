@@ -19,9 +19,9 @@
 
 = Master Your Scripting Skills with the New Tutorial!
 :author: jtulach 
-:revdate: 2019-01-24
+:page-revdate: 2019-01-24
 :page-layout: blogentry
-:jbake-tags: blogentry
+:page-tags: blogentry
 :jbake-status: published
 :keywords: Apache NetBeans blog index
 :description: Apache NetBeans blog index

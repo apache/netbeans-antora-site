@@ -19,9 +19,9 @@
 
 = Apache NetBeans, OpenJFX, and AdoptOpenJDK
 :author: Geertjan Wielenga 
-:revdate: 2019-06-10
+:page-revdate: 2019-06-10
 :page-layout: blogentry
-:jbake-tags: blogentry
+:page-tags: blogentry
 :jbake-status: published
 :keywords: NetBeans at Oracle Code One 2019
 :description: NetBeans at Oracle Code One 2019

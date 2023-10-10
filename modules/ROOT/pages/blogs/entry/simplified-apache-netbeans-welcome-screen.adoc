@@ -19,9 +19,9 @@
 
 = Simplified Apache NetBeans Welcome Screen
 :author: Geertjan Wielenga 
-:revdate: 2019-08-24
+:page-revdate: 2019-08-24
 :page-layout: blogentry
-:jbake-tags: blogentry
+:page-tags: blogentry
 :jbake-status: published
 :keywords: NetBeans at Oracle Code One 2019
 :description: NetBeans at Oracle Code One 2019
