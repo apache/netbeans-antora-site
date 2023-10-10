@@ -18,7 +18,7 @@
 ////
 = Serializing Nodes 
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: blog entry serializing_nodes
 :description: blog entry serializing_nodes

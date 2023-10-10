@@ -18,7 +18,7 @@
 ////
 = Build System Design
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: former site entry projects.netbeans.org/buildsys/design.html
 :description: former site entry projects.netbeans.org/buildsys/design.html

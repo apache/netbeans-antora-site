@@ -18,7 +18,7 @@
 ////
 = Creating a Better Java Class Wizard 
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: blog entry creating_a_better_java_class
 :description: blog entry creating_a_better_java_class

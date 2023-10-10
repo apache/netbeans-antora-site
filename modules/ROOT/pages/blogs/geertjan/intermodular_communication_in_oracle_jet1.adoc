@@ -18,7 +18,7 @@
 ////
 = Intermodular Communication in Oracle JET (Part 2)
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: blog entry intermodular_communication_in_oracle_jet1
 :description: blog entry intermodular_communication_in_oracle_jet1

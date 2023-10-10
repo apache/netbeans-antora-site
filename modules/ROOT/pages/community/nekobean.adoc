@@ -18,7 +18,7 @@
 ////
 = NekoBean
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: NekoBean
 :description: NekoBean which is a mascot of Apache NetBeans community

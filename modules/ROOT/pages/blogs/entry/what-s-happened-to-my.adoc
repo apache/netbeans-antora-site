@@ -19,9 +19,9 @@
 
 = What's Happened to My Favorite NetBeans Plugins?
 :author: Geertjan Wielenga
-:revdate: 2018-07-20
+:page-revdate: 2018-07-20
 :page-layout: blogentry
-:jbake-tags: blogentry
+:page-tags: blogentry
 :jbake-status: published
 :keywords: Apache NetBeans blog index
 :description: Apache NetBeans blog index

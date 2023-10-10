@@ -18,7 +18,7 @@
 ////
 = Messages
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: blog entry messages 
 :description: blog entry messages

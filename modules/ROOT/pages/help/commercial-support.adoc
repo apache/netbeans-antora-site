@@ -18,7 +18,7 @@
 ////
 = Commercial Support / Apache NetBeans
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: Apache NetBeans Commercial Support
 :description: Apache NetBeans Commercial Support

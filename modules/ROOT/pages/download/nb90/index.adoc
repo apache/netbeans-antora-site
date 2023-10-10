@@ -18,7 +18,7 @@
 ////
 = Apache NetBeans (incubating) 9.0 Features
 :page-layout: page
-:jbake-tags: 9.0 features
+:page-tags: 9.0 features
 :jbake-status: published
 :keywords: Apache NetBeans 9.0 IDE features
 :icons: font

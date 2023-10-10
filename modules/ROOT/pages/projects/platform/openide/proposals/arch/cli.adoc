@@ -18,7 +18,7 @@
 ////
 = Command Line Interface and Locking User Directory
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: former site entry openide.netbeans.org/proposals/arch/cli.html
 :description: former site entry  openide.netbeans.org/proposals/arch/cli.html

@@ -18,7 +18,7 @@
 ////
 = Support of the Control versioning systems in NetBeans UI Specification 
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: former site entry ui.netbeans.org/docs/ui/VersioningSpecification/
 :description: former site entry ui.netbeans.org/docs/ui/VersioningSpecification/

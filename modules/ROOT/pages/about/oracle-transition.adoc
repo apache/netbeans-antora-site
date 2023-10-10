@@ -18,7 +18,7 @@
 ////
 = Oracle Transition
 :page-layout: page
-:jbake-tags: about
+:page-tags: about
 :jbake-status: published
 :keywords: Apache NetBeans History
 :description: Apache NetBeans History

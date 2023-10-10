@@ -18,7 +18,7 @@
 ////
 = Mavenized NetBeans Platform Runtime Container 
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: blog entry mavenized_netbeans_platform_runtime_container
 :description: blog entry mavenized_netbeans_platform_runtime_container

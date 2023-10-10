@@ -19,7 +19,7 @@
 
 = Apache NetBeans Blog
 :page-layout: blogindex
-:jbake-tags: blog
+:page-tags: blog
 :jbake-status: published
 :keywords: Apache NetBeans blog index
 :description: Apache NetBeans blog index

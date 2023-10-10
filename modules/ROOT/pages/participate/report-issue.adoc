@@ -18,7 +18,7 @@
 ////
 = Reporting issues
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: Apache NetBeans issue report
 :description: Apache NetBeans Reporting Issues

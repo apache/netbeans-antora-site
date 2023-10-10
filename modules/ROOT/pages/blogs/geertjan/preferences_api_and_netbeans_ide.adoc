@@ -18,7 +18,7 @@
 ////
 = Preferences API and NetBeans IDE (Part 1) 
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: blog entry preferences_api_and_netbeans_ide
 :description: blog entry preferences_api_and_netbeans_ide

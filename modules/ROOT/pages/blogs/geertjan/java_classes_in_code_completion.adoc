@@ -18,7 +18,7 @@
 ////
 = Java Classes in Code Completion 
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: blog entry java_classes_in_code_completion
 :description: blog entry java_classes_in_code_completion

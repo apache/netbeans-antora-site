@@ -18,7 +18,7 @@
 ////
 = Multiple Files from a Single Wizard
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: blog entry multiple_files_from_a_single
 :description: blog entry multiple_files_from_a_single

@@ -19,9 +19,9 @@
 
 = PHP 7.3 Support
 :author: Junichi
-:revdate: 2018-10-01
+:page-revdate: 2018-10-01
 :page-layout: blogentry
-:jbake-tags: blogentry
+:page-tags: blogentry
 :jbake-status: published
 :keywords: Apache NetBeans blog index
 :description: Apache NetBeans blog index

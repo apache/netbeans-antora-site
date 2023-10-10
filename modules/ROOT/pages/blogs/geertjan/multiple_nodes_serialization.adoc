@@ -18,7 +18,7 @@
 ////
 = Serializing Marilyn Monroe 
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: blog entry multiple_nodes_serialization
 :description: blog entry multiple_nodes_serialization

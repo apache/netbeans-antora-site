@@ -18,7 +18,7 @@
 ////
 = Project-Level License Settings in NetBeans IDE 6.0
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: blog entry project_level_license_settings
 :description: blog entry project_level_license_settings

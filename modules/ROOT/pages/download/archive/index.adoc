@@ -19,7 +19,7 @@
 ////
 = Apache NetBeans archive
 :page-layout: page
-:jbake-tags: archive
+:page-tags: archive
 :jbake-status: published
 :keywords: Apache NetBeans archive releases
 :icons: font

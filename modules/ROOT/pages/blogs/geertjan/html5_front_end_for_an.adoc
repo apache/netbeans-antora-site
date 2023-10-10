@@ -18,7 +18,7 @@
 ////
 = HTML5 Front End for an Existing Java EE Application 
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: blog entry html5_front_end_for_an
 :description: blog entry html5_front_end_for_an

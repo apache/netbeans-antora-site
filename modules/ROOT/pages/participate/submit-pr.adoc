@@ -18,7 +18,7 @@
 ////
 = Contributing Code
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: Submitting pull requests to Apache NetBeans 
 :description: Submitting pull requests to Apache NetBeans 

@@ -19,7 +19,7 @@
 ////
 = Apache NetBeans source and daily builds
 :page-layout: page
-:jbake-tags: 
+:page-tags: 
 :jbake-status: published
 :keywords: Apache NetBeans source and daily builds
 :icons: font

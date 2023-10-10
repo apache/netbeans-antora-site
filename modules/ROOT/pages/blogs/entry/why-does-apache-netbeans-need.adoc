@@ -19,9 +19,9 @@
 
 = Why Does Apache NetBeans Need Its Own Parsers?
 :author: Geertjan Wielenga 
-:revdate: 2019-08-06
+:page-revdate: 2019-08-06
 :page-layout: blogentry
-:jbake-tags: blogentry
+:page-tags: blogentry
 :jbake-status: published
 :keywords: NetBeans at Oracle Code One 2019
 :description: NetBeans at Oracle Code One 2019

@@ -19,9 +19,9 @@
 
 = JEP 411: Deprecate the Security Manager for Removal (Part 2)
 :author: Geertjan Wielenga
-:revdate: 2021-05-24
+:page-revdate: 2021-05-24
 :page-layout: blogentry
-:jbake-tags: blogentry
+:page-tags: blogentry
 :jbake-status: published
 :keywords: Apache NetBeans blog index
 :description: Apache NetBeans blog index

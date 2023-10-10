@@ -18,7 +18,7 @@
 ////
 = How to Sort Columns in a TreeTableView
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: blog entry enriching_your_treetableview
 :description: blog entry enriching_your_treetableview

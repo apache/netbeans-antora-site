@@ -18,7 +18,7 @@
 ////
 = How Wizards Work (Part 1): Introduction 
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: blog entry how_wizards_work
 :description: blog entry how_wizards_work

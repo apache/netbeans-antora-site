@@ -18,7 +18,7 @@
 ////
 = Privileged and Recommended Templates
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: blog entry privileged_and_recommended_templates
 :description: blog entry privileged_and_recommended_templates

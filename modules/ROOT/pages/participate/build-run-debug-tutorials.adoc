@@ -18,7 +18,7 @@
 ////
 = Submitting Pull Requests / Apache NetBeans
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: Apache NetBeans run debug video tutorials
 :description: Learn to build and debug Apache NetBeans IDE and create NetBeans Platform applications.

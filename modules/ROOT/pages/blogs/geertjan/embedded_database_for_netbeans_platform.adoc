@@ -18,7 +18,7 @@
 ////
 = Embedded Database for NetBeans Platform CRUD Tutorial
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: blog entry embedded_database_for_netbeans_platform
 :description: blog entry embedded_database_for_netbeans_platform

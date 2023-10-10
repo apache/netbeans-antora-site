@@ -18,7 +18,7 @@
 ////
 = How to Create an Editable Diff Viewer 
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: blog entry how_to_create_an_editable
 :description: blog entry how_to_create_an_editable

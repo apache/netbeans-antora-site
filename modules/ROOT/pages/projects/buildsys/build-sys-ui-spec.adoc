@@ -18,7 +18,7 @@
 ////
 = Build System UI Spec 
 :page-layout: page
-:jbake-tags: community
+:page-tags: community
 :jbake-status: published
 :keywords: former site entry projects.netbeans.org/buildsys/build-sys-ui-spec.html
 :description: former site entry  projects.netbeans.org/buildsys/build-sys-ui-spec.html

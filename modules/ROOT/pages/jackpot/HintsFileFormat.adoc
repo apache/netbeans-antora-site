@@ -19,7 +19,7 @@
 
 = Java Declarative Hints Language
 :page-layout: page
-:jbake-tags: main
+:page-tags: main
 :jbake-status: published
 :keywords: Apache NetBeans, Jackpot, code inspection, refactoring
 :icons: font

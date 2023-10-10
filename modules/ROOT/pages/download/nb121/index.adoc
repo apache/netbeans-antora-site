@@ -18,7 +18,7 @@
 ////
 = Apache NetBeans 12.1 Features
 :page-layout: page_noaside
-:jbake-tags: 12.1 features
+:page-tags: 12.1 features
 :jbake-status: published
 :keywords: Apache NetBeans 12.1 IDE features
 :icons: font
