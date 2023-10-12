@@ -27,7 +27,7 @@
 :description: Apache NetBeans 19 release
 :toc: left
 :toc-title:
-:syntax: true
+:page-syntax: true
 
 
 The Apache NetBeans team is pleased to announce that Apache NetBeans 19 was released on September 1, 2023.

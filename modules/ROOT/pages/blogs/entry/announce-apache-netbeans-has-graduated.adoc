@@ -27,7 +27,7 @@
 :description: Apache NetBeans 18 release
 :toc: left
 :toc-title:
-:syntax: true
+:page-syntax: true
 
 
 We have graduated from the Apache Incubator and we are now a top level Apache project at The Apache Software Foundation (ASF).

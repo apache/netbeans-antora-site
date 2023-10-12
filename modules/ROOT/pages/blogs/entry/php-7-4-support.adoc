@@ -27,7 +27,7 @@
 :description: NetBeans at Oracle Code One 2019
 :toc: left
 :toc-title:
-:syntax: true
+:page-syntax: true
 :imagesdir: https://netbeans.apache.org
 
 Hi all. Today, we will briefly show you about PHP7.4 support which will be available in the *next NetBeans* version i.e. *NetBeans 11.2*.

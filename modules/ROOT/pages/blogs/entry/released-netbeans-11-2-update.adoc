@@ -27,7 +27,7 @@
 :description: Apache NetBeans 18 release
 :toc: left
 :toc-title:
-:syntax: true
+:page-syntax: true
 
 
 This release is identical to 11.2 except for backported fixes for:

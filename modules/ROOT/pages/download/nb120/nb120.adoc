@@ -32,7 +32,7 @@ for important requirements for download pages for Apache projects.
 :toc: left
 :toc-title:
 :icons: font
-:syntax: true
+:page-syntax: true
 :source-highlighter: pygments
 
 Apache NetBeans 12.0 was released on June 4, 2020.

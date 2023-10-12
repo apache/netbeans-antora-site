@@ -23,7 +23,7 @@
 :jbake-status: published
 :keywords: Apache NetBeans, Jackpot, code inspection, refactoring
 :icons: font
-:syntax: true
+:page-syntax: true
 :description: Java Declarative Hints Language
 :source-highlighter: pygments
 :toc: left

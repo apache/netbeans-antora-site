@@ -27,7 +27,7 @@
 :description: Apache NetBeans blog index
 :toc: left
 :toc-title:
-:syntax: true
+:page-syntax: true
 
 
 Apache NetBeans 12.0 adds support for the latest Java language features, integrates new code donations from Oracle for Java Web development, 

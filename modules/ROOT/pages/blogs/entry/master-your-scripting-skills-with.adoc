@@ -27,7 +27,7 @@
 :description: Apache NetBeans blog index
 :toc: left
 :toc-title:
-:syntax: true
+:page-syntax: true
 
 Enhanced link:https://bits.netbeans.org/dev/javadoc//org-netbeans-libs-graalsdk/org/netbeans/libs/graalsdk/package-summary.html[scripting tutorial] has just
 become part of xref:index.adoc[Apache NetBeans] documentation. It contains various examples showing how to communicate from *Java* with *JavaScript*, *Python* and other languages. 

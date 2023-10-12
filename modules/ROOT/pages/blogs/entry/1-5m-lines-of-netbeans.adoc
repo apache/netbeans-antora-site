@@ -27,7 +27,7 @@
 :description: Apache NetBeans blog index
 :toc: left
 :toc-title:
-:syntax: true
+:page-syntax: true
 
 Great news: the process of completing the 2nd donation is now done and Oracle has made available a ZIP file constituting the 2nd donation. 
 Oracle donated around 4,000,000 lines of code in the 1st donation last year and has now completed the 2nd 

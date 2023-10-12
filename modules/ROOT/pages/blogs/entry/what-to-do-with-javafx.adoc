@@ -27,7 +27,7 @@
 :description: NetBeans at Oracle Code One 2019
 :toc: left
 :toc-title:
-:syntax: true
+:page-syntax: true
 
 If Apache NetBeans runs on JDK 8, a range of Ant-based JavaFX sample applications are available in NetBeans to help you get started and learn about JavaFX. 
 However, if NetBeans does not run on JDK 8, the available Ant-based JavaFX samples don't work (can't be created) but there's no point 

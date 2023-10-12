@@ -27,7 +27,7 @@
 :description: Apache NetBeans 18 release
 :toc: left
 :toc-title:
-:syntax: true
+:page-syntax: true
 
 The Apache NetBeans team is pleased to announce the release of Apache NetBeans 11.2. 
 Apache NetBeans is a full IDE for Java SE, Java EE, PHP and JavaScript development with some Groovy language support.

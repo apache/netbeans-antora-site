@@ -27,7 +27,7 @@
 :description: NetBeans at Oracle Code One 2019
 :toc: left
 :toc-title:
-:syntax: true
+:page-syntax: true
 
 
 A question was asked on the link:https://lists.apache.org/thread/rdtcvc87pj1d8oj6qcwbm7bjkkr53m5s[Apache NetBeans mailing list]: "I was just curious about the theoretical aspect of parsing. Isn't there a unified parsing API, using ANTLR/lex/yacc which can parse any language given a grammar for it? Why do we use a different parsing implementation (like the Graal JS parser in this instance) when a unified approach will help us support lots of languages easily?"

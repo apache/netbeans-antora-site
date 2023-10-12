@@ -27,7 +27,7 @@
 :description: Apache NetBeans blog index
 :toc: left
 :toc-title:
-:syntax: true
+:page-syntax: true
 :imagesdir: https://netbeans.apache.org
 
 The third of a series of informal virtual meetups took place today, focused specifically on why/how/when to move netbeans.org to Apache.

@@ -27,7 +27,7 @@
 :description: Apache NetBeans blog index
 :toc: left
 :toc-title:
-:syntax: true
+:page-syntax: true
 :imagesdir: https://netbeans.apache.org
 
 Hurray, the link:https://github.com/apache/incubator-netbeans/tree/master/enterprise['enterprise' cluster], constituting all the modules in Apache NetBeans GitHub that provide features for Java/Jakarta EE development, 

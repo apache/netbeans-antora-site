@@ -27,7 +27,7 @@
 :description: Apache NetBeans blog index
 :toc: left
 :toc-title:
-:syntax: true
+:page-syntax: true
 
 
 Eric Barboni, our Release Manager of 11.3, produced Apache NetBeans 11.3-beta2 build the other day. It is available for testing!

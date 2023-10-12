@@ -27,7 +27,7 @@
 :toc: left
 :toc-title: 
 :toclevels: 4
-:syntax: true
+:page-syntax: true
 :source-highlighter: pygments
 :experimental:
 :linkattrs:
