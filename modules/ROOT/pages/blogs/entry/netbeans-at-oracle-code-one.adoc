@@ -27,7 +27,7 @@
 :description: NetBeans at Oracle Code One 2019
 :toc: left
 :toc-title:
-:syntax: true
+:page-syntax: true
 
 An Apache NetBeans schedule for those going to Oracle Code One 2019 next week!
 

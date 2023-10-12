@@ -27,7 +27,7 @@
 :description: NetBeans at Oracle Code One 2019
 :toc: left
 :toc-title:
-:syntax: true
+:page-syntax: true
 
 
 Check out a great series of articles on a killer combination, by Chris Lufg--Apache NetBeans, OpenJFX, and AdoptOpenJDK.

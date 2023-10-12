@@ -33,55 +33,15 @@ for important requirements for download pages for Apache projects.
 :toc-title:
 :linkattrs:
 
-== Mirror selection
-////
-  use  raw html to replace bracket items with apache mirror with the cgi script
-////
-++++
-<p>
-[if-any logo]
-   <a href="[link]"><img align="right" src="[logo]" border="0" alt="logo"/></a>
-[end]
-
-The currently selected mirror is <b>[preferred]</b>.
-If you encounter a problem with this mirror,please select another mirror.
-If all mirrors are failing, there are <i>backup</i> mirrors (at the end of the mirrors list) that should be available.
-</p>
-
-        <form action="[location]" method="get" id="SelectMirror">
-          Other mirrors:
-          <select name="Preferred">
-            [if-any http]
-            [for http]
-            <option value="[http]">[http]</option>
-            [end]
-            [end]
-            [if-any ftp]
-            [for ftp]
-            <option value="[ftp]">[ftp]</option>
-            [end]
-            [end]
-            [if-any backup]
-            [for backup]
-            <option value="[backup]">[backup] (backup)</option>
-            [end]
-            [end]
-          </select>
-          <input type="submit" value="Change"/>
-        </form>
-
-<p>
-   You may also consult the <a href="https://www.apache.org/mirrors/">complete list of mirrors.</a>
-</p>
-
-++++
-
-== Apache NetBeans parent pom 2 
+== Apache NetBeans parent pom 4 
 
 |===
 | | Links  | Checksum | Signature
 
-|Apache NetBeans parent pom 2 | link:++[preferred]netbeans/netbeans-parent/netbeans-parent-2/netbeans-parent-2-source-release.zip++[netbeans-parent-2-source-release.zip] | link:++https://downloads.apache.org/netbeans/netbeans-parent/netbeans-parent-2/netbeans-parent-2-source-release.zip.sha512++[netbeans-parent-2-source-release.zip.sha512] | link:++https://downloads.apache.org/netbeans/netbeans-parent/netbeans-parent-2/netbeans-parent-2-source-release.zip.asc++[netbeans-parent-2-source-release.zip.asc]
+|Apache NetBeans parent pom 4
+|link:https://www.apache.org/dyn/closer.lua/netbeans/netbeans-parent/netbeans-parent-4/netbeans-parent-4-source-release.zip?action=download[netbeans-parent-4-source-release.zip] 
+|link:https://downloads.apache.org/netbeans/netbeans-parent/netbeans-parent-4/netbeans-parent-4-source-release.zip.sha512[netbeans-parent-4-source-release.zip.sha512] 
+|link:https://downloads.apache.org/netbeans/netbeans-parent/netbeans-parent-4/netbeans-parent-2-source-release.zip.asc[netbeans-parent-4-source-release.zip.asc]
 
 |===
 

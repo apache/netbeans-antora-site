@@ -27,7 +27,7 @@
 :description: Apache NetBeans blog index
 :toc: left
 :toc-title:
-:syntax: true
+:page-syntax: true
 
 
 The Apache NetBeans team is pleased to announce that Apache NetBeans 12.5 was released on September 13th 2021 footnote:[We're again a little late in announcing this because we were creating convenience binaries, e.g., installers, since announcing the result of the vote thread.]. Apache NetBeans is a full IDE for Java SE, Java EE, PHP, JavaScript, HTML5 and more, including some support for Groovy and C/C++.

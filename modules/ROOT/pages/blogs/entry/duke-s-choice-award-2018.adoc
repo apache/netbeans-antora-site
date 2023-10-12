@@ -27,7 +27,7 @@
 :description: Apache NetBeans blog index
 :toc: left
 :toc-title:
-:syntax: true
+:page-syntax: true
 :imagesdir: https://netbeans.apache.org
 
 During Oracle Open World 2018, Apache NetBeans was awarded a Duke's Choice Award, 

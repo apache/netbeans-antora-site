@@ -67,7 +67,7 @@ TIP: The installers will NOT run under JDK 14 because usage is made of the Pack2
 ////
 NOTE: Using https below is highly recommended.
 ////
-Officially, it is important that you link:https://www.apache.org/dyn/closer.cgi#verify[verify the integrity]
+Officially, it is important that you link:https://www.apache.org/dyn/closer.lua#verify[verify the integrity]
 of the downloaded files using the PGP signatures (.asc file) or a hash (.sha512 files).
 The PGP signatures should be matched against the link:https://downloads.apache.org/netbeans/KEYS[KEYS] file which contains the PGP keys used to sign this release.
 

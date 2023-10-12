@@ -27,7 +27,7 @@
 :description: Apache NetBeans blog index
 :toc: left
 :toc-title:
-:syntax: true
+:page-syntax: true
 
 Hurray! The 2nd Oracle donation of NetBeans to the Apache Software Foundation, constituting 1.5M lines of code,
 providing tools for enterprise Java, JavaScript, PHP, Groovy, and more, has now landed on a branch of Apache NetBeans Git

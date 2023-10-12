@@ -69,7 +69,7 @@ link:https://archive.apache.org/dist/netbeans/netbeans/11.1/netbeans-11.1-source
 ////
 NOTE: Using https below is highly recommended.
 ////
-Officially, it is important that you link:https://www.apache.org/dyn/closer.cgi#verify[verify the integrity]
+Officially, it is important that you link:https://www.apache.org/dyn/closer.lua#verify[verify the integrity]
 of the downloaded files using the PGP signatures (.asc file) or a hash (.sha512 files).
 The PGP keys used to sign this release are available link:https://archive.apache.org/dist/netbeans/KEYS[here].
 

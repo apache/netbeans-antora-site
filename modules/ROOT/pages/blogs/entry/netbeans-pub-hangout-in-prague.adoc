@@ -27,7 +27,7 @@
 :description: Apache NetBeans 18 release
 :toc: left
 :toc-title:
-:syntax: true
+:page-syntax: true
 :imagesdir: https://netbeans.apache.org
 
 A group of Java engineers gathered in a pub in Prague last night to celebrate many years 

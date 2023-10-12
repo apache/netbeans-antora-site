@@ -27,7 +27,7 @@
 :description: Apache NetBeans blog index
 :toc: left
 :toc-title:
-:syntax: true
+:page-syntax: true
 :imagesdir: https://netbeans.apache.org
 
 After a discussion and voting process on the Apache NetBeans (incubating) dev and user mailing lists... we have a new logo! Here it is:

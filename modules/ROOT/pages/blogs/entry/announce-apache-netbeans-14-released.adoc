@@ -27,7 +27,7 @@
 :description: Apache NetBeans blog index
 :toc: left
 :toc-title:
-:syntax: true
+:page-syntax: true
 
 
 The Apache NetBeans team is pleased to announce that Apache NetBeans 14 was released on June 9, 2022 (though there's been a delay in announcing the release).

@@ -27,7 +27,7 @@
 :description: Apache NetBeans blog index
 :toc: left
 :toc-title:
-:syntax: true
+:page-syntax: true
 
 
 The Apache NetBeans team is pleased to announce that Apache NetBeans 17 was released on February 21, 2023.

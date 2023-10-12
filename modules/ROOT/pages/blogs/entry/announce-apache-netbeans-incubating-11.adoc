@@ -27,7 +27,7 @@
 :description: Apache NetBeans 18 release
 :toc: left
 :toc-title:
-:syntax: true
+:page-syntax: true
 
 
 The Apache NetBeans team is proud to announce the release of Apache NetBeans (incubating) 11.0.

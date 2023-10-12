@@ -32,7 +32,7 @@ for important requirements for download pages for Apache projects.
 :toc: left
 :toc-title:
 :icons: font
-:syntax: true
+:page-syntax: true
 :source-highlighter: pygments
 
 Apache NetBeans 12.0 was released on June 4, 2020.
@@ -67,7 +67,7 @@ link:https://archive.apache.org/dist/netbeans/netbeans/12.0/Apache-NetBeans-12.0
 ////
 NOTE: Using https below is highly recommended.
 ////
-Officially, it is important that you link:https://www.apache.org/dyn/closer.cgi#verify[verify the integrity]
+Officially, it is important that you link:https://www.apache.org/dyn/closer.lua#verify[verify the integrity]
 of the downloaded files using the PGP signatures (.asc file) or a hash (.sha512 files).
 The PGP signatures should be matched against the link:https://downloads.apache.org/netbeans/KEYS[KEYS] file which contains the PGP keys used to sign this release.
 

@@ -22,7 +22,7 @@
 :jbake-status: published
 :keywords: Code conventions for  Apache NetBeans 
 :description: Code conventions for to Apache NetBeans 
-:syntax: true
+:page-syntax: true
 :source-highlighter: pygments
 :toc: left
 :toclevels: 4

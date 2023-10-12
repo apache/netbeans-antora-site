@@ -27,7 +27,7 @@
 :description: Apache NetBeans blog index
 :toc: left
 :toc-title:
-:syntax: true
+:page-syntax: true
 :imagesdir: https://netbeans.apache.org
 
 Yesterday I attended link:https://foss-backstage.de/[FOSS Backstage] in Berlin. 

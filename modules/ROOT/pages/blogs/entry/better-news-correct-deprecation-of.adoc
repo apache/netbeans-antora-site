@@ -27,7 +27,7 @@
 :description: Apache NetBeans blog index
 :toc: left
 :toc-title:
-:syntax: true
+:page-syntax: true
 
 
 See https://mail.openjdk.java.net/pipermail/jdk-dev/2021-May/005616.html

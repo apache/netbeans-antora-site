@@ -27,7 +27,7 @@
 :description: Apache NetBeans blog index
 :toc: left
 :toc-title:
-:syntax: true
+:page-syntax: true
 
 
 The Apache NetBeans team is pleased to announce that Apache NetBeans 12.2 was released on December 5th 2020. 

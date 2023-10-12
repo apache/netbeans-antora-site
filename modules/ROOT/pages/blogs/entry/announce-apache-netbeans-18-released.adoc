@@ -27,7 +27,7 @@
 :description: Apache NetBeans 18 release
 :toc: left
 :toc-title:
-:syntax: true
+:page-syntax: true
 
 
 The Apache NetBeans team is pleased to announce that Apache NetBeans 18 was released on May 30, 2023.

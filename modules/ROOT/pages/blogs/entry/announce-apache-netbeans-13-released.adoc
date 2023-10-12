@@ -27,7 +27,7 @@
 :description: Apache NetBeans blog index
 :toc: left
 :toc-title:
-:syntax: true
+:page-syntax: true
 
 
 The Apache NetBeans team is pleased to announce that Apache NetBeans 13 is released today on March 4, 2022. Apache NetBeans is a full IDE for Java SE, Java EE, PHP, JavaScript, HTML5 and more, including some support for Groovy and C/C++.

@@ -41,7 +41,7 @@ for important requirements for download pages for Apache projects.
 //// 
 url-status depends of release status archived or not
 https://archive.apache.org/dist/netbeans/  (//archived)
-https://www.apache.org/dyn/closer.cgi/netbeans/ (//current)
+https://www.apache.org/dyn/closer.lua/netbeans/ (//current)
 
 url-download-keychecksum depends of release status archived or not
 https://archive.apache.org/dist/netbeans/  (//archived)
@@ -76,7 +76,7 @@ link:{url-download-keychecksum}netbeans/{netbeans-version}/netbeans-{netbeans-ve
 ////
 NOTE: Using https below is highly recommended.
 ////
-Officially, it is important that you link:https://www.apache.org/dyn/closer.cgi#verify[verify the integrity]
+Officially, it is important that you link:https://www.apache.org/dyn/closer.lua#verify[verify the integrity]
 of the downloaded files using the PGP signatures (.asc file) or a hash (.sha512 files).
 The PGP keys used to sign this release are available link:https://downloads.apache.org/netbeans/KEYS[here].
 
