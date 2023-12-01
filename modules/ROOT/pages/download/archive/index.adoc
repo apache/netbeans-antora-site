@@ -28,6 +28,12 @@
 
 Older Apache NetBeans releases can still be downloaded, but are no longer supported.
 
+== Apache NetBeans 19
+
+Apache NetBeans 19 was released on September 1, 2023.
+
+link:https://github.com/apache/netbeans/releases/tag/19[Features, role="button"] xref:download/nb19/index.adoc[Download, role="button success"]
+
 == Apache NetBeans 18
 
 Apache NetBeans 18 was released on May 30, 2023.
