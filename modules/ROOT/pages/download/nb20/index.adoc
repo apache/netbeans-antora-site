@@ -67,7 +67,7 @@ link:{url-download-keychecksum}netbeans/{netbeans-version}/netbeans-{netbeans-ve
 
 *Installers and Packages:*
 
-* link:{url-download}netbeans-installers/{netbeans-version}/Apache-NetBeans-{netbeans-version}-bin-windows-x64.exe[Apache-NetBeans-{netbeans-version}-bin-windows-x64.exe] (link:{url-download-keychecksum}netbeans-installers/{netbeans-version}/Apache-NetBeans-{netbeans-version}-bin-windows-x64.exe.sha512[SHA-512],
+* link:{url-download}netbeans-installers/{netbeans-version}/Apache-NetBeans-{netbeans-version}r1-bin-windows-x64.exe[Apache-NetBeans-{netbeans-version}r1-bin-windows-x64.exe] (link:{url-download-keychecksum}netbeans-installers/{netbeans-version}/Apache-NetBeans-{netbeans-version}r1-bin-windows-x64.exe.sha512[SHA-512],
 link:{url-download-keychecksum}netbeans-installers/{netbeans-version}/Apache-NetBeans-{netbeans-version}-bin-windows-x64.exe.asc[PGP ASC])
 * link:{url-download}netbeans-installers/{netbeans-version}/Apache-NetBeans-{netbeans-version}.pkg[Apache-NetBeans-{netbeans-version}.pkg] (link:{url-download-keychecksum}netbeans-installers/{netbeans-version}/Apache-NetBeans-{netbeans-version}.pkg.sha512[SHA-512],
 link:{url-download-keychecksum}netbeans-installers/{netbeans-version}/Apache-NetBeans-{netbeans-version}.pkg.asc[PGP ASC])
