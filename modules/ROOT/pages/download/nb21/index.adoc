@@ -23,24 +23,24 @@ See https://www.apache.org/dev/release-download-pages.html
 for important requirements for download pages for Apache projects.
 
 ////
-= Downloading Apache NetBeans 20
+= Downloading Apache NetBeans 21
 :page-layout: page_noaside
 :page-tags: download
 :jbake-status: published
-:keywords: Apache NetBeans 20 Download
-:description: Apache NetBeans 20 Download
+:keywords: Apache NetBeans 21 Download
+:description: Apache NetBeans 21 Download
 :toc: left
 :toc-title:
 :icons: font
 
 // check version above
-:netbeans-version: 20
+:netbeans-version: 21
 
 // base URLs - when archiving, delete the next 2 lines and uncomment the following 2
-//:url-download: https://www.apache.org/dyn/closer.lua/netbeans/
-//:url-download-keychecksum: https://downloads.apache.org/netbeans/
-:url-download: https://archive.apache.org/dist/netbeans/
-:url-download-keychecksum: https://archive.apache.org/dist/netbeans/
+:url-download: https://www.apache.org/dyn/closer.lua/netbeans/
+:url-download-keychecksum: https://downloads.apache.org/netbeans/
+// :url-download: https://archive.apache.org/dist/netbeans/
+// :url-download-keychecksum: https://archive.apache.org/dist/netbeans/
 
 //// 
 url-download depends of release status archived or not
@@ -52,7 +52,7 @@ https://archive.apache.org/dist/netbeans/  (//archived)
 https://downloads.apache.org/netbeans/ (//current)
 ////
 
-Apache NetBeans {netbeans-version} was released on December 1, 2023.
+Apache NetBeans {netbeans-version} was released on February 20, 2024.
 ////
 NOTE: It's mandatory to link to the source. It's optional to link to the binaries.
 NOTE: It's mandatory to link against https://www.apache.org for the sums & keys. https is recommended.
@@ -67,7 +67,7 @@ link:{url-download-keychecksum}netbeans/{netbeans-version}/netbeans-{netbeans-ve
 
 *Installers and Packages:*
 
-* link:{url-download}netbeans-installers/{netbeans-version}/Apache-NetBeans-{netbeans-version}r1-bin-windows-x64.exe[Apache-NetBeans-{netbeans-version}r1-bin-windows-x64.exe] (link:{url-download-keychecksum}netbeans-installers/{netbeans-version}/Apache-NetBeans-{netbeans-version}r1-bin-windows-x64.exe.sha512[SHA-512],
+* link:{url-download}netbeans-installers/{netbeans-version}/Apache-NetBeans-{netbeans-version}-bin-windows-x64.exe[Apache-NetBeans-{netbeans-version}-bin-windows-x64.exe] (link:{url-download-keychecksum}netbeans-installers/{netbeans-version}/Apache-NetBeans-{netbeans-version}-bin-windows-x64.exe.sha512[SHA-512],
 link:{url-download-keychecksum}netbeans-installers/{netbeans-version}/Apache-NetBeans-{netbeans-version}-bin-windows-x64.exe.asc[PGP ASC])
 * link:{url-download}netbeans-installers/{netbeans-version}/Apache-NetBeans-{netbeans-version}.pkg[Apache-NetBeans-{netbeans-version}.pkg] (link:{url-download-keychecksum}netbeans-installers/{netbeans-version}/Apache-NetBeans-{netbeans-version}.pkg.sha512[SHA-512],
 link:{url-download-keychecksum}netbeans-installers/{netbeans-version}/Apache-NetBeans-{netbeans-version}.pkg.asc[PGP ASC])
@@ -132,8 +132,8 @@ in a directory of your liking.
 As in any other Apache Project, the Apache NetBeans Community approved this release
 through the following voting processes in our xref:community/mailing-lists.adoc[mailing lists]:
 
-- link:https://lists.apache.org/thread/nszffw9mhlrst0ftxt2p539qhpvq7jzt[PMC vote]
-- link:https://lists.apache.org/thread/4qstkggoqfbj7s07yvg3omd52vs7hg6n[PMC vote result]
+- link:https://lists.apache.org/thread/tt7h9tq087q5zj0cgb7vhnojn5hbccl3[PMC vote]
+- link:https://lists.apache.org/thread/jzhcxv8jczl83g01vlzlxfpgjb5fk8yl[PMC vote result]
 
 == Earlier Releases
 
