@@ -36,7 +36,7 @@ What's in the Apache NetBeans 21 release:
 
 https://github.com/apache/netbeans/releases/tag/21
 
-With thanks to 48 contributors, including 3 who have contributed for the first time. Thank you!
+With thanks to 24 contributors, including 3 who have contributed for the first time. Thank you!
 
 Downloads:
 
