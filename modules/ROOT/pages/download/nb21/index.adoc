@@ -67,7 +67,7 @@ link:{url-download-keychecksum}netbeans/{netbeans-version}/netbeans-{netbeans-ve
 
 *Installers and Packages:*
 
-* link:{url-download}netbeans-installers/{netbeans-version}/Apache-NetBeans-{netbeans-version}r1-bin-windows-x64.exe[Apache-NetBeans-{netbeans-version}r1-bin-windows-x64.exe] (link:{url-download-keychecksum}netbeans-installers/{netbeans-version}/Apache-NetBeans-{netbeans-version}r1-bin-windows-x64.exe.sha512[SHA-512],
+* link:{url-download}netbeans-installers/{netbeans-version}/Apache-NetBeans-{netbeans-version}-bin-windows-x64.exe[Apache-NetBeans-{netbeans-version}-bin-windows-x64.exe] (link:{url-download-keychecksum}netbeans-installers/{netbeans-version}/Apache-NetBeans-{netbeans-version}-bin-windows-x64.exe.sha512[SHA-512],
 link:{url-download-keychecksum}netbeans-installers/{netbeans-version}/Apache-NetBeans-{netbeans-version}-bin-windows-x64.exe.asc[PGP ASC])
 * link:{url-download}netbeans-installers/{netbeans-version}/Apache-NetBeans-{netbeans-version}.pkg[Apache-NetBeans-{netbeans-version}.pkg] (link:{url-download-keychecksum}netbeans-installers/{netbeans-version}/Apache-NetBeans-{netbeans-version}.pkg.sha512[SHA-512],
 link:{url-download-keychecksum}netbeans-installers/{netbeans-version}/Apache-NetBeans-{netbeans-version}.pkg.asc[PGP ASC])
@@ -132,8 +132,8 @@ in a directory of your liking.
 As in any other Apache Project, the Apache NetBeans Community approved this release
 through the following voting processes in our xref:community/mailing-lists.adoc[mailing lists]:
 
-- link:https://lists.apache.org/thread/nszffw9mhlrst0ftxt2p539qhpvq7jzt[PMC vote]
-- link:https://lists.apache.org/thread/4qstkggoqfbj7s07yvg3omd52vs7hg6n[PMC vote result]
+- link:https://lists.apache.org/thread/tt7h9tq087q5zj0cgb7vhnojn5hbccl3[PMC vote]
+- link:https://lists.apache.org/thread/jzhcxv8jczl83g01vlzlxfpgjb5fk8yl[PMC vote result]
 
 == Earlier Releases
 
