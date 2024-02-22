@@ -30,6 +30,7 @@
 :page-syntax: true
 
 
+Schedule:
 
 * *Saturday, Oct 20, 19:00 p.m. | Thirsty Bear, 661 Howard Street*
 +
