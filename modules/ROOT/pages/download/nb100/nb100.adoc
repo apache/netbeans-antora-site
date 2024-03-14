@@ -60,7 +60,7 @@ Officially, it is important that you link:https://www.apache.org/dyn/closer.lua#
 
 Also see the following YouTube clip:
 
-video::O8cwpEY1OAQ[youtube, title="The Rough Guide to Apache NetBeans 10"]
+avideo::O8cwpEY1OAQ[youtube, title="The Rough Guide to Apache NetBeans 10"]
 
 == Building from source
 

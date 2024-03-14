@@ -65,7 +65,7 @@ TIP: Installers have been introduced for the first time in the next release, in 
 
 Also see the following YouTube clip:
 
-video::vCN_XvXQzzo[youtube, title="The Rough Guide to Apache NetBeans 11.0"]
+avideo::vCN_XvXQzzo[youtube, title="The Rough Guide to Apache NetBeans 11.0"]
 
 == Deployment platforms
 

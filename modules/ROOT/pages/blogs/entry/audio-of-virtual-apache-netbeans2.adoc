@@ -34,7 +34,7 @@ The third of a series of informal virtual meetups took place today, focused spec
 
 The audio of the meeting is available here and takes about 53 minutes:
 
-video::VmhX4VAlWlc[youtube]
+avideo::VmhX4VAlWlc[youtube]
 
 Screenshot of what we saw of each other, partly:
 

@@ -33,7 +33,7 @@
 
 Watch this quick session, with a number of Apache NetBeans team members, to learn about the status of the process at Apache NetBeans (incubating):
 
-video::EkfX-W0tgNo[youtube]
+avideo::EkfX-W0tgNo[youtube]
 
 
 

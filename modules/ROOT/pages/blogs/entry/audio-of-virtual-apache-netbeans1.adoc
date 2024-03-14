@@ -36,7 +36,7 @@ The second of a series of informal virtual meetups took place today.
 
 The audio of the meeting is available here and takes about 45 minutes:
 
-video::yQ72aZqwGec[youtube]
+avideo::yQ72aZqwGec[youtube]
 
 Sign up to the next virtual meetups here:
 

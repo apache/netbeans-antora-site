@@ -34,7 +34,7 @@
 
 Watch this quick interview to learn about the status of the process at Apache NetBeans (incubating):
 
-video::o5qDm0yS8mc[youtube]
+avideo::o5qDm0yS8mc[youtube]
 
 
 
