@@ -34,16 +34,16 @@
 ====
 
 == Part 1: Hello Apache NetBeans Platform
-video::VC8gQJknPaU[youtube]
+avideo::VC8gQJknPaU[youtube]
 
 == Part 2: Debug into the Apache NetBeans Platform
-video::rufG7VE-u9s[youtube]
+avideo::rufG7VE-u9s[youtube]
 
 == Part 3: Run & Debug Apache NetBeans IDE
-video::a1F2FkhZfQM[youtube]
+avideo::a1F2FkhZfQM[youtube]
 
 == Part 4: Edit and Run Apache NetBeans IDE
-video::iv4osiFZDP0[youtube]
+avideo::iv4osiFZDP0[youtube]
 
 == Part 5: Debug the Sources of Apache NetBeans IDE
-video::UaGdctQWt_4[youtube]
+avideo::UaGdctQWt_4[youtube]

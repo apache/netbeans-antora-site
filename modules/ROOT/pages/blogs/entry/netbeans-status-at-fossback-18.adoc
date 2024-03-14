@@ -33,6 +33,6 @@
 
 The session outlining 10 tips for large corporate projects moving to Apache, with NetBeans as an illustrative example, presented at FossBack '18, is now available on YouTube:
 
-video::Bnznard9Nls[youtube]
+avideo::Bnznard9Nls[youtube]
 
 The full report on the session and NetBeans attendance is here: xref:./apache-netbeans-at-foss-backstage.adoc[blog foss backstage]
