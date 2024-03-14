@@ -39,29 +39,29 @@ provide pull requests to fix bugs you encounter or to provide enhancements.
 
 First steps in getting started with Apache NetBeans as the basis of your own Java desktop software.
 
-video::VC8gQJknPaU[youtube]
+avideo::VC8gQJknPaU[youtube]
 
 === Part II: Debugging into the Apache NetBeans Platform
 
 Once you have an Apache NetBeans Platform application set up, how do you debug
 into the sources of the Apache NetBeans Platform itself?
 
-video::rufG7VE-u9s[youtube]
+avideo::rufG7VE-u9s[youtube]
 
 === Part III: Run & Debug Apache NetBeans IDE
 
 A quick tip for running and debugging Apache NetBeans IDE.
 
-video::a1F2FkhZfQM[youtube]
+avideo::a1F2FkhZfQM[youtube]
 
 === Part IV: Edit and Run Apache NetBeans IDE
 
 How do you make changes to the source code and then see them live in Apache NetBeans IDE?
 
-video::iv4osiFZDP0[youtube]
+avideo::iv4osiFZDP0[youtube]
 
 === Part V: Debug the Sources of Apache NetBeans IDE
 
 How to debug into the source code of Apache NetBeans IDE? Find out here.
 
-video::UaGdctQWt_4[youtube]
+avideo::UaGdctQWt_4[youtube]
