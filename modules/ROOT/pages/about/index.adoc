@@ -26,6 +26,10 @@
 :toc-title:
 :icons: font
 
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+
 == Welcome to Apache NetBeans
 
 In June 2000, NetBeans was made open source by Sun Microsystems, which remained
@@ -80,7 +84,7 @@ keyboard shortcuts; window management, and so on.
 
 [.feature]
 ---
-image::./gephi-metrics-small.png[role="left", link="gephi-metrics.png"]
+image::about/gephi-metrics-small.png[role="left", link="gephi-metrics.png"]
 ---
 
 The NetBeans Platform provides all of these out of the box. You don't need to

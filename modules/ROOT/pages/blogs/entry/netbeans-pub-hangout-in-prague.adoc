@@ -28,7 +28,14 @@
 :toc: left
 :toc-title:
 :page-syntax: true
+
+// absolute url because of blog generation
+ifdef::env-github[]
+:imagesdir: ../../../images
+endif::[]
+ifndef::env-github[]
 :imagesdir: https://netbeans.apache.org
+endif::[]
 
 A group of Java engineers gathered in a pub in Prague last night to celebrate many years 
 of their engagement in NetBeans, all having worked in Sun Microsystems or Oracle or both, 

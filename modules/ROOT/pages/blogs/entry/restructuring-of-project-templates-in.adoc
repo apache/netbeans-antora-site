@@ -28,7 +28,14 @@
 :toc: left
 :toc-title:
 :page-syntax: true
+
+// absolute url because of blog generation
+ifdef::env-github[]
+:imagesdir: ../../../images
+endif::[]
+ifndef::env-github[]
 :imagesdir: https://netbeans.apache.org
+endif::[]
 
 There's been lots of discussion in the Apache NetBeans community about how best to express the fact that 
 Apache Maven and Apache Gradle are more modern choices to be aware of than Apache Ant, 

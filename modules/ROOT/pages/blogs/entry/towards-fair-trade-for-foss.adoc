@@ -28,7 +28,14 @@
 :toc: left
 :toc-title:
 :page-syntax: true
+
+// absolute url because of blog generation
+ifdef::env-github[]
+:imagesdir: ../../../images
+endif::[]
+ifndef::env-github[]
 :imagesdir: https://netbeans.apache.org
+endif::[]
 
 As part of being involved in Apache, I got the opportunity yesterday to go to Brussels 
 to attend the European Commission's link:https://ec.europa.eu/info/news/ec-open-source-workshops-computing-and-sustainability-2-december-2022-2022-oct-21_en[EC Open Source Workshops - Computing and Sustainability].

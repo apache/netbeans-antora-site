@@ -28,7 +28,14 @@
 :toc: left
 :toc-title:
 :page-syntax: true
+
+// absolute url because of blog generation
+ifdef::env-github[]
+:imagesdir: ../../../images
+endif::[]
+ifndef::env-github[]
 :imagesdir: https://netbeans.apache.org
+endif::[]
 
 
 Last Saturday (June 30, 2018) I was invited to COFAN (Conférence au Faso sur le Numérique) to present tips for building enterprise Java applications. 

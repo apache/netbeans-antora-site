@@ -28,7 +28,14 @@
 :toc: left
 :toc-title:
 :page-syntax: true
+
+// absolute url because of blog generation
+ifdef::env-github[]
+:imagesdir: ../../../images
+endif::[]
+ifndef::env-github[]
 :imagesdir: https://netbeans.apache.org
+endif::[]
 
 After a discussion and voting process on the Apache NetBeans (incubating) dev and user mailing lists... we have a new logo! Here it is:
 

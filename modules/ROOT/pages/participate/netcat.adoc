@@ -25,7 +25,12 @@
 :toc: left
 :toc-title:
 
-image:./netcat.png[] NetCAT is the Apache NetBeans Community Acceptance Testing.
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+
+
+image:participate/netcat.png[] NetCAT is the Apache NetBeans Community Acceptance Testing.
 
 == What is the basic purpose of NetCAT?
 

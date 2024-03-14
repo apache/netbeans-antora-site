@@ -27,6 +27,10 @@
 :toc-title: 
 :toclevels: 4
 
+ifdef::env-github[]
+:imagesdir: ../../../images
+endif::[]
+
 Apache NetBeans 9.0 is the first release of the Apache NetBeans IDE, it was released
 on July 2018. xref:./nb90.adoc[Click here to download] this release.
 
@@ -57,11 +61,11 @@ Examples:
 --
 Here goes some text
 
-image:./nb90-module-info.png[Adding module-info.java, title="Adding module-info.java", role="left", link="nb90-module-info.png"]
+image:download/nb90/nb90-module-info.png[Adding module-info.java, title="Adding module-info.java", role="left", link="nb90-module-info.png"]
 
 And some more text
 
-image:./nb90-module-info-completion.png[Autocompletion in module-info.java, title="Autocompletion in module-info.java", role="right", link="nb90-module-info-completion.png"]
+image:download/nb90/nb90-module-info-completion.png[Autocompletion in module-info.java, title="Autocompletion in module-info.java", role="right", link="nb90-module-info-completion.png"]
 
 And even some more
 --
@@ -76,28 +80,28 @@ New hints, error handlers, and refactorings for transforming to/from the new JDK
 
 - New Hint to convert explicit variable type to 'var'.
 
-image:./image2018-5-30_12-38-55.png[New Hint to convert explicit variable type to 'var', title="New Hint to convert explicit variable type to 'var'", role="left", link="image2018-5-30_12-38-55.png"]
+image:download/nb90/image2018-5-30_12-38-55.png[New Hint to convert explicit variable type to 'var', title="New Hint to convert explicit variable type to 'var'", role="left", link="image2018-5-30_12-38-55.png"]
 
 - New Hint to Convert var type back to explicit type.
 
-image:./image2018-5-30_12-45-4.png[New Hint to Convert var type back to explicit type, title="New Hint to Convert var type back to explicit type", role="left", link="image2018-5-30_12-45-4.png"]
+image:download/nb90/image2018-5-30_12-45-4.png[New Hint to Convert var type back to explicit type, title="New Hint to Convert var type back to explicit type", role="left", link="image2018-5-30_12-45-4.png"]
 
 - New Error hint to split compound 'var' declaration.
 
 Var is not supported in a compound variable declaration. This fix helps correct compilation error by splitting declaration into separate statements. 
 
-image:./image2018-5-30_13-34-39.png[New Error hint to split compound 'var' declaration, title="New Error hint to split compound 'var' declaration", role="left", link="image2018-5-30_13-34-39.png"]
+image:download/nb90/image2018-5-30_13-34-39.png[New Error hint to split compound 'var' declaration, title="New Error hint to split compound 'var' declaration", role="left", link="image2018-5-30_13-34-39.png"]
 
 - New Error Hint for var Array declaration.
 
 Var type is not supported for array initializer. This hint helps correct compilation errors by converting to explicit type by inferring the type of data in an array. This currently handles arrays of primitive or homogeneous types.
 
-image:./invalidArray.png[New Error Hint for var Array declaration, title="New Error Hint for var Array declaration", role="left", link="invalidArray.png"]
+image:download/nb90/invalidArray.png[New Error Hint for var Array declaration, title="New Error Hint for var Array declaration", role="left", link="invalidArray.png"]
 
 == Supporting the Jigsaw Module System
 [.feature]
 --
-image:./nb90-module-info.png[Adding module-info.java, title="Adding module-info.java", role="left", link="nb90-module-info.png"]
+image:download/nb90/nb90-module-info.png[Adding module-info.java, title="Adding module-info.java", role="left", link="nb90-module-info.png"]
 
 NetBeans 9 supports link:https://openjdk.org/projects/jigsaw/spec/[JPMS (Jigsaw)]. 
 
@@ -108,7 +112,7 @@ The standard NetBeans Java SE Project Type (Ant based) can be a single JDK 9 mod
 
 [.feature]
 --
-image:./nb90-module-info-completion.png[Autocompletion in module-info.java, title="Autocompletion in module-info.java", role="right", link="nb90-module-info-completion.png"]
+image:download/nb90/nb90-module-info-completion.png[Autocompletion in module-info.java, title="Autocompletion in module-info.java", role="right", link="nb90-module-info-completion.png"]
 
 Of course, we provide full autocompletion for `module-info.java`
 --
@@ -116,7 +120,7 @@ Of course, we provide full autocompletion for `module-info.java`
 == A brand new Java Modular Application project type
 [.feature]
 --
-image:./nb90-new-multi-module.png[Java Modular Application, title="New Java Modular Application Project Type", role="left", link="nb90-new-multi-module.png"]
+image:download/nb90/nb90-new-multi-module.png[Java Modular Application, title="New Java Modular Application Project Type", role="left", link="nb90-new-multi-module.png"]
 
 We have added a new *Java Modular project* type. This allows to develop
 several JDK9 modules in one NetBeans project (Ant based). 
@@ -130,7 +134,7 @@ in the project will be compiled at once.
 == Java Shell support
 [.feature]
 --
-image:./nb90-javashell.png[Java Shell Support, title="Java Shell Support", role="left", link="nb90-javashell.png"]
+image:download/nb90/nb90-javashell.png[Java Shell Support, title="Java Shell Support", role="left", link="nb90-javashell.png"]
 
 Java Shell is a new tool included in JDK9 defined in link:https://openjdk.org/jeps/222[JEP 222] to introduce REPL
 (read-eval-print-loop) capabilities to Java. 
@@ -144,7 +148,7 @@ the editor.
 
 [.feature]
 --
-image:./nb90-shell-agent.png[Shell Agent Configuration, title="JShell acess configuration", role="right", link="nb90-shell-agent.png"]
+image:download/nb90/nb90-shell-agent.png[Shell Agent Configuration, title="JShell acess configuration", role="right", link="nb90-shell-agent.png"]
 
 Also NetBeans greatly extends the capabilities of the commandline tool.
 NetBeans can execute the shell *as an agent*, similar to a debugging agent, on the
@@ -154,7 +158,7 @@ both Ant and Maven-based).
 
 [.feature]
 --
-image:./nb90-shell-save.png[Saving JShell snippets, title="Saving JShell snippets", role="left", link="nb90-shell-save.png"]
+image:download/nb90/nb90-shell-save.png[Saving JShell snippets, title="Saving JShell snippets", role="left", link="nb90-shell-save.png"]
 
 Snippets written in JShell can be redefined and tested, even against a running
 code. 
