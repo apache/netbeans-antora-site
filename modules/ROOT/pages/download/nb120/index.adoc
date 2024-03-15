@@ -31,6 +31,10 @@
 :experimental:
 :linkattrs:
 
+ifdef::env-github[]
+:imagesdir: ../../../images
+endif::[]
+
 Welcome to Apache NetBeans 12.0!
 
 xref:./nb120.adoc[Download, role="button success"]
@@ -61,14 +65,14 @@ TIP: In these scenarios, make sure to uninstall the NetBeans "nb-javac" fork, if
 
 [.feature]
 --
-image::./record-keyword.png[role="left", link="record-keyword.png"]
+image::download/nb120/record-keyword.png[role="left", link="record-keyword.png"]
 -- 
 
 - link:https://openjdk.org/jeps/305[JEP 305]: Pattern Matching for instanceof (Preview Feature) 
 
 [.feature]
 --
-image::./ezgif.com-video-to-gif.gif[role="left", link="ezgif.com-video-to-gif.gif"]
+image::download/nb120/ezgif.com-video-to-gif.gif[role="left", link="ezgif.com-video-to-gif.gif"]
 --  
 
 ==== Java 13
@@ -77,12 +81,12 @@ image::./ezgif.com-video-to-gif.gif[role="left", link="ezgif.com-video-to-gif.gi
 
 [.feature]
 --
-image::./jdk13-textblock.png[role="left", link="jdk13-textblock.png"]
+image::download/nb120/jdk13-textblock.png[role="left", link="jdk13-textblock.png"]
 -- 
 
 [.feature]
 --
-image::./TextBlockToString.gif[role="left", link="TextBlockToString.gif"]
+image::download/nb120/TextBlockToString.gif[role="left", link="TextBlockToString.gif"]
 -- 
 
 ==== Java 12
@@ -91,7 +95,7 @@ image::./TextBlockToString.gif[role="left", link="TextBlockToString.gif"]
 
 [.feature]
 --
-image::./code-completion-multiple-case-2.png[role="left", link="code-completion-multiple-case-2.png"]
+image::download/nb120/code-completion-multiple-case-2.png[role="left", link="code-completion-multiple-case-2.png"]
 -- 
 
 TIP: link:https://openjdk.org/jeps/12[JEP 12], introduced in JDK 12, provides for a preview language or VM feature, which "is a new feature of the Java SE Platform that is fully specified, fully implemented, and yet impermanent. It is available in a JDK feature release to provoke developer feedback based on real world use; this may lead to it becoming permanent in a future Java SE Platform".
@@ -136,7 +140,7 @@ Two OpenJFX Gluon Maven artifacts are now registered in the New Project dialog, 
 
 [.feature]
 --
-image::./openjfx-gluon-artifacts-600.png[role="left", link="openjfx-gluon-artifacts-600.png"]
+image::download/nb120/openjfx-gluon-artifacts-600.png[role="left", link="openjfx-gluon-artifacts-600.png"]
 -- 
 
 === Java EE
@@ -149,14 +153,14 @@ Java EE 8 support, for the first time in 11.1, for Maven-based and Gradle-based 
 
 [.feature]
 --
-image::./new-java-ee-8.png[role="left", link="new-java-ee-8.png"]
+image::download/nb120/new-java-ee-8.png[role="left", link="new-java-ee-8.png"]
 -- 
 
 Support for link:https://github.com/apache/netbeans/pull/1633[JSF 2.3: CDI Changes for JSF Artifact Injection] (introduced in 11.3), e.g., "f:websocket" is now supported.
 
 [.feature]
 --
-image::./javaee-websocket-600.png[role="left", link="javaee-websocket-600.png"]
+image::download/nb120/javaee-websocket-600.png[role="left", link="javaee-websocket-600.png"]
 --  
 
 ==== Support for Java EE Servers
@@ -223,7 +227,7 @@ The key new feature for Gradle users in Apache NetBeans 12.0 is its support for 
  
 [.feature]
 --
-image::./gradle-12.0.png[role="left", link="gradle-12.0.png"]
+image::download/nb120/gradle-12.0.png[role="left", link="gradle-12.0.png"]
 -- 
 
 TIP: Currently, Apache NetBeans supports Java EE, though not yet Jakarta EE. The Jakarta EE APIs are identical to Java EE 8, though there are new JARs that are now packaged under the Eclipse Foundation and all APIs have been slightly renamed. 
@@ -238,7 +242,7 @@ The key new feature for PHP users in Apache NetBeans 12.0 is its support for PHP
 
 [.feature]
 --
-image::./php-7.4.png[role="left", link="php-7.4.png"]
+image::download/nb120/php-7.4.png[role="left", link="php-7.4.png"]
 -- 
 
 Further details on new support for PHP 7.4 features are provided link:https://cwiki.apache.org/confluence/display/NETBEANS/11.2+Feature%3A+PHP[here] and see all fixes in the PHP area in 12.0 link:https://issues.apache.org/jira/browse/NETBEANS-3968?jql=project%20%3D%20NETBEANS%20AND%20resolution%20in%20(Fixed%2C%20Done%2C%20Implemented)%20AND%20fixVersion%20in%20(11.1%2C%2011.2%2C%2011.3%2C%2012.0)%20AND%20component%20in%20(%22php%20-%20Apache%20Config%20Files%22%2C%20%22php%20-%20Code%22%2C%20%22php%20-%20Code%20Analysis%22%2C%20%22php%20-%20Codeception%22%2C%20%22php%20-%20Composer%22%2C%20%22php%20-%20Debugger%22%2C%20%22php%20-%20Editor%22%2C%20%22php%20-%20Formatting%20%26%20Indentation%22%2C%20%22php%20-%20FTP%20Support%22%2C%20%22php%20-%20Navigation%22%2C%20%22php%20-%20Nette%22%2C%20%22php%20-%20PHPDoc%22%2C%20%22php%20-%20PHPUnit%22%2C%20%22php%20-%20Project%22%2C%20%22php%20-%20Refactoring%22%2C%20%22php%20-%20Smarty%22%2C%20%22php%20-%20Symfony%22%2C%20%22php%20-%20Twig%22%2C%20%22php%20-%20Zend%22)[here].
@@ -247,7 +251,7 @@ In addition, Apache NetBeans 12.0 integrates out of the box a TypeScript editor,
 
 [.feature]
 --
-image::./typescript-11.3.png[role="left", link="typescript-11.3.png"]
+image::download/nb120/typescript-11.3.png[role="left", link="typescript-11.3.png"]
 -- 
 
 For users of the Chrome/NetBeans integration, a fix has been integrated enabling the Chrome connector to work correctly with Apache NetBeans, since 11.3.
@@ -266,14 +270,14 @@ A key focus of the 12.0 release is around appearance, since the NetBeans dark lo
 
 === FlatLaf Look and Feel Support
 
-image::./FlatLaf-11.3-small.png[role="left", link="FlatLaf-11.3.png", border="1px solid black"]
+image::download/nb120/FlatLaf-11.3-small.png[role="left", link="FlatLaf-11.3.png", border="1px solid black"]
 
 === Dark Metal and Dark Nimbus Look and Feel Support
 
 [.feature]
 --
 
-image::./dark-metal-nimbus-11.3-small.png[role="left", link="dark-metal-nimbus-11.3.png"]
+image::download/nb120/dark-metal-nimbus-11.3-small.png[role="left", link="dark-metal-nimbus-11.3.png"]
 
 --
 

@@ -28,21 +28,26 @@
 :toc: left
 :toc-title:
 :page-syntax: true
+
+ifdef::env-github[]
+:imagesdir: ../../images
+endif::[]
+
 :imagesdir: https://netbeans.apache.org
 
 
 
 Not long after you start up xref:./tentative-schedule-for-apache-netbeans.adoc[Apache NetBeans (incubating) 9.0] *on top of JDK 8*, after accepting the license agreement and handling import settings, you're confronted with this dialog:
 
-image::./what-s-nb-javac-in1.png[]
+image::blogs/entry/what-s-nb-javac-in1.png[]
 
 What does that mean? And why, when you start up Apache NetBeans (incubating) 9.0 *on top of JDK 9 or above*, do you see the following, instead:
 
-image::./what-s-nb-javac-in2.png[]
+image::blogs/entry/what-s-nb-javac-in2.png[]
 
 NOTE: The above appears in a balloon popup in the bottom right the first time you start up Apache NetBeans (incubating) 9.0 on JDK 9 or above. If you miss out on seeing or responding to the message, go to Window | IDE Tools | Notifications anytime afterwards and you'll have another opportunity to install it:
 
-image::./what-s-nb-javac-in3.png[]
+image::blogs/entry/what-s-nb-javac-in3.png[]
 
 Let's start by looking at the question, what is "nb-javac"? Well, "nb-javac", which is a patched version of "javac", i.e., the Java compiler, has long been part of NetBeans, providing a highly tuned Java compiler specifically for the Java editor in NetBeans, and wasn't part of the donation of NetBeans to Apache since, of course, the Java compiler (or a fork thereof) cannot be part of the donation. That's because Oracle is not donating Java to Apache, instead, it is donating NetBeans. The Java compiler belongs to the JDK which is licensed to Oracle.
 

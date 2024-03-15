@@ -31,6 +31,11 @@
 :experimental:
 :linkattrs:
 
+ifdef::env-github[]
+:imagesdir: ../../../images
+endif::[]
+
+
 Welcome to Apache NetBeans 12.2, the second feature release of the Apache NetBeans 12 cycle!
 
 TIP: The LTS release of the Apache NetBeans 12 cycle is Apache NetBeans 12.0. The 12.2 release has not been tested as heavily as the LTS release and may therefore be less stable. Use 12.2 to use the latest features and to provide feedback for the next LTS release, scheduled for 2021. Go here to download  xref:download/nb120/nb120.adoc[Apache NetBeans 12.0], the current LTS release.
@@ -57,7 +62,7 @@ The full list of pull requests integrated in the 12.2 timeframe link:https://git
  - *Show types for chained method invocations.* https://github.com/apache/netbeans/pull/2365
 [.feature]
 --
-image::./93015822-d1c18980-f5bc-11ea-8e33-34398623af7d-3.png[role="left", link="93015822-d1c18980-f5bc-11ea-8e33-34398623af7d-3.png.png"]
+image::download/nb122/93015822-d1c18980-f5bc-11ea-8e33-34398623af7d-3.png[role="left", link="93015822-d1c18980-f5bc-11ea-8e33-34398623af7d-3.png.png"]
 -- 
  - *Create new Class/Interface/Enum when copy-paste raw text.* https://github.com/apache/netbeans/pull/2334
  - *Create only one instance of javac.* https://github.com/apache/netbeans/pull/2305

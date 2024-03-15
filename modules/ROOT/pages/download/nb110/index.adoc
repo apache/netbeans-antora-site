@@ -31,6 +31,10 @@
 :source-highlighter: pygments
 :experimental:
 
+ifdef::env-github[]
+:imagesdir: ../../../images
+endif::[]
+
 ////
 
 This is the NetBeans 11.0 feature page.
@@ -67,11 +71,11 @@ Examples:
 --
 Here goes some text
 
-image:./nb90-module-info.png[Adding module-info.java, title="Adding module-info.java", role="left", link="nb90-module-info.png"]
+image:download/nb110/nb90-module-info.png[Adding module-info.java, title="Adding module-info.java", role="left", link="nb90-module-info.png"]
 
 And some more text
 
-image:./nb90-module-info-completion.png[Autocompletion in module-info.java, title="Autocompletion in module-info.java", role="right", link="nb90-module-info-completion.png"]
+image:download/nb110/nb90-module-info-completion.png[Autocompletion in module-info.java, title="Autocompletion in module-info.java", role="right", link="nb90-module-info-completion.png"]
 
 And even some more
 --
@@ -89,7 +93,7 @@ to express the fact that Apache Maven and Gradle are more modern choices
 to be aware of than Apache Ant, while at the same time not implying that
 there's anything wrong with using Apache Ant.
 
-image::./nb11-new-project.png[The new 'New Project' dialog, title="New Project dialog", role="left"]
+image::download/nb110/nb11-new-project.png[The new 'New Project' dialog, title="New Project dialog", role="left"]
 
 Discussions link:https://github.com/apache/incubator-netbeans/pull/1038[started back in 2018],
 and link:https://github.com/apache/incubator-netbeans/pull/1115[culminated in 2019] 
@@ -132,7 +136,7 @@ better hints and better auto-completion.
 
 You can now autocomplete enum values in switch statements:
 
-image:./switch-autocomplete.png[]
+image:download/nb110/switch-autocomplete.png[]
 
 ==== JEP-325: Switch Expressions (Preview)
 
@@ -150,11 +154,11 @@ link:https://github.com/apache/incubator-netbeans/pull/1173[issue is being track
 
 There's a new hint to convert switch-cases to rule kind classes. For instance, in this scenario:
 
-image:./jep-325-hint-1.jpg[]
+image:download/nb110/jep-325-hint-1.jpg[]
 
 if you choose the hint the result will be:
 
-image:./jep-325-hint-2.jpg[]
+image:download/nb110/jep-325-hint-2.jpg[]
 
 That's cleaner, right?
 
@@ -188,7 +192,7 @@ WebLogic 9 and the module `websvc.switmodellext` had to be dropped as well.
 In late December, 2018, Apache NetBeans Team Member xref:community/who.adoc#_laszlo_kishalmi[Laszlo Kishalmi]
 kindly donated link:https://mail-archives.apache.org/mod_mbox/netbeans-dev/201812.mbox/%3Cade97a90-84c9-c566-b23a-9c5ccf40ec2f%40gmail.com%3E[his Gradle works to Apache NetBeans]. 
 
-image::./gradle-navigator.png[Navigation of Gradle build script, title="Navigating the Gradle build script", role="left"]
+image::download/nb110/gradle-navigator.png[Navigation of Gradle build script, title="Navigating the Gradle build script", role="left"]
 
 Since then he has been steadily link:https://issues.apache.org/jira/issues/?jql=project%20%3D%20NETBEANS%20AND%20component%20%3D%20%22projects%20-%20Gradle%22%20and%20status%20!%3D%20Open[working very hard] 
 to solve many issues and doing improvements.

@@ -28,7 +28,14 @@
 :toc: left
 :toc-title:
 :page-syntax: true
+
+// absolute url because of blog generation
+ifdef::env-github[]
+:imagesdir: ../../../images
+endif::[]
+ifndef::env-github[]
 :imagesdir: https://netbeans.apache.org
+endif::[]
 
 Hurray, the link:https://github.com/apache/incubator-netbeans/tree/master/enterprise['enterprise' cluster], constituting all the modules in Apache NetBeans GitHub that provide features for Java/Jakarta EE development, 
 provided in the 2nd Oracle donation of NetBeans to Apache, link:https://github.com/apache/incubator-netbeans/pull/1104[has been integrated into the daily builds].

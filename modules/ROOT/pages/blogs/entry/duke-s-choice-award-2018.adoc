@@ -28,7 +28,14 @@
 :toc: left
 :toc-title:
 :page-syntax: true
+
+// absolute url because of blog generation
+ifdef::env-github[]
+:imagesdir: ../../../images
+endif::[]
+ifndef::env-github[]
 :imagesdir: https://netbeans.apache.org
+endif::[]
 
 During Oracle Open World 2018, Apache NetBeans was awarded a Duke's Choice Award, 
 recognizing its innovation and the hard and dedicated work involved in moving NetBeans from Oracle to Apache.
