@@ -47,7 +47,7 @@ xref:./examples.adoc[Examples] - Download and explore a large set of examples.
 * xref:tutorial::tutorials/nbm-visual_library.adoc[Visual Library Tutorial for NetBeans Platform Applications]
 * link:http://web.archive.org/web/20230326153932/https://dzone.com//articles/how-embed-javafx-chart-visual[Visual Library Tutorial for JavaFX Applications]
 * xref:tutorial::tutorials/nbm-quick-start-visual.adoc[Visual Library Tutorial for Java Swing Applications]
-* xref:blogs/geertjan/applet_of_the_week.adoc[Visual Library Tutorial for Java Applets]
+// obsolete * link:http://web.archive.org/web/20210118093940/https://blogs.oracle.com/geertjan/entry/applet_of_the_week[Visual Library Tutorial for Java Applets]
 * xref:tutorial::tutorials/index.adoc[More related tutorials...]
 
-//link:http://web.archive.org/web/20210118093940/https://platform.netbeans.org/graph/[Former article page]
+// link:http://web.archive.org/web/20210118093940/https://platform.netbeans.org/graph/[Former article page]
