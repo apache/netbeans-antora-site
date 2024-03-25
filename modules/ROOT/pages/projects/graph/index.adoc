@@ -24,4 +24,30 @@
 :keywords: NetBeans Visual Library
 :description: NetBeans Visual Library
 
-link:http://web.archive.org/web/20210118093940/https://platform.netbeans.org/graph/[Former article page]
+The NetBeans Visual Library provides a set of reusable, predefined, and extensible Java components, called "widgets". 
+Each widget has, built into it, various features, such as actions, layouts, and borders. 
+When you compose widgets together, you can quickly and easily visualize data to the user. 
+Combined with other NetBeans APIs, the NetBeans Visual Library lets you create interactive UIs, with drag-and-drop features commonly found in designer software.
+
+Java SE applications, using JavaFX, Swing, or both, as well as Java applets, can benefit from the widgets provided by the NetBeans Visual Library.
+
+// To provide context and help understand its purpose, here are screenshots of visualizations that have been created with the NetBeans Visual Library in real applications.
+
+xref:./examples.adoc[Examples] - Download and explore a large set of examples.
+
+== Documentation
+
+* link:https://bits.netbeans.org/dev/javadoc/org-netbeans-api-visual/overview-summary.html[Visual Library API javadoc]
+* link:https://bits.netbeans.org/dev/javadoc/org-netbeans-api-visual/org/netbeans/api/visual/widget/doc-files/documentation.html[Official Documentation]
+* xref:./faq.adoc[FAQ]
+
+
+== Tutorials
+
+* xref:tutorial::tutorials/nbm-visual_library.adoc[Visual Library Tutorial for NetBeans Platform Applications]
+* link:http://web.archive.org/web/20230326153932/https://dzone.com//articles/how-embed-javafx-chart-visual[Visual Library Tutorial for JavaFX Applications]
+* xref:tutorial::tutorials/nbm-quick-start-visual.adoc[Visual Library Tutorial for Java Swing Applications]
+// obsolete * link:http://web.archive.org/web/20210118093940/https://blogs.oracle.com/geertjan/entry/applet_of_the_week[Visual Library Tutorial for Java Applets]
+* xref:tutorial::tutorials/index.adoc[More related tutorials...]
+
+// link:http://web.archive.org/web/20210118093940/https://platform.netbeans.org/graph/[Former article page]

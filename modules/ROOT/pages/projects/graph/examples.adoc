@@ -1,0 +1,154 @@
+////
+     Licensed to the Apache Software Foundation (ASF) under one
+     or more contributor license agreements.  See the NOTICE file
+     distributed with this work for additional information
+     regarding copyright ownership.  The ASF licenses this file
+     to you under the Apache License, Version 2.0 (the
+     "License"); you may not use this file except in compliance
+     with the License.  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing,
+     software distributed under the License is distributed on an
+     "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, either express or implied.  See the License for the
+     specific language governing permissions and limitations
+     under the License.
+////
+= Apache NetBeans Visual Library Examples
+:page-layout: page
+:page-tags: community
+:jbake-status: published
+:icons: font
+:keywords: NetBeans Visual Library Examples
+:description: NetBeans Visual Library Examples
+
+ifdef::env-github[]
+:imagesdir: ../../../images
+endif::[]
+
+There are a number of examples that can be used as a guide for writing code to the NetBeans Visual Library.
+
+You will need to clone mercurial repository and get example from visual.examples folder
+
+link:http://source.apidesign.org/hg/netbeans/contrib/file/tip/visual.examples[Simple NetBeans Application Project]
+
+This will produce a NetBeans Java Application project. Open it in NetBeans IDE. A long list of examples, the first few of which are shown below, will be available.
+
+image::projects/graph/visual-samples.png[Visual Samples]
+
+Simply run the project. A dialog containing a list of all the examples will appear. 
+Double-click any of the items in the list to run the example. 
+Note that all the supporting code for the examples is in the project. 
+This is a good source for learning how to use the NetBeans Visual Library APIs.
+
+== List of Examples
+
+
+* *javaone.demo1.IconNodeWidget* - how to create a composite widget
+* *javaone.demo2.ActionDemo* - how to use actions
+* *javaone.demo3.ConnectionDemo* - how to use ``ConnectionWidget``
+* *javaone.demo4.GraphDemo* - how to use graph-oriented scene implemented using ``GraphScene``
+* *javaone.demo5.ManyObjectsDemo* - performance test of 1113 nodes and 1110 edges on a single scene. Zoom-out to see more.
+* *javaone.demo6.LODDemo* - how to use ``LevelOfDetailsWidget``. Zoom-in to see more.
+* *test.action.ActionMapActionTest* - how to use ``ActionMapAction``
+* *test.action.PanActionTest* - test of ``PanAction``
+* *test.action.PopupMenuActionTest* - test of ``PopupMenuAction``
+* *test.action.SelectLockedActionTest* - example of proper cooperation of select (which opens another Swing windows) and locking action
+* *test.action.WheelPanActionTest* - how to use ``WheelPanAction``
+* *test.alignwith.AlignWithClientAreaTest* - test of #105285 - align-with action with checking client area of widgets only
+* *test.alignwith.AlignWithMoveGuideLinesTest* - test of #97034 - incorrectly painted guide-lines for ``MoveAlignWithAction``
+* *test.alignwith.AlignWithTest* - how to use ``MoveAlignWithAction``
+* *test.alignwith.AlignWithResizeTest* - how to use ``AlignWithMoveAction`` and AlignWithResizeAction
+* *test.anchor.ArrowAnchorShapeTest* - test of ``ArrowAnchorShape``
+* *test.anchor.AnchorShapeWidthTest* - test of bugfix #91613 - Incorrectly rendered AnchorShapes
+* *test.anchor.ImageAnchorShapeTest* - test of ``ImageAnchorShape``
+* *test.anchor.InvalidAnchorNegativeTest* - negative test of invalid anchor (its related widget is not added into scene)
+* *test.animator.AnimatorTest* - how to use preferred-location animator
+* *test.animator.ColorAnimatorTest* - how to use background/foreground animator
+* *test.bird.BirdViewTest* - how to use bird view
+* *test.card.CardContainerWidget* - how to use ``CardLayout``
+* *test.component.ComponentTest* - shows AWT/Swing integration
+* *test.component.ComponentModeTest* - shows adding/removing modes of ``ComponentWidget``
+* *test.connect.ConnectActionLockTest* - test of bugfix #120766 - missing check in lockable actions
+* *test.connect.ConnectScene* - how to ``ConnectAction`` and ``ReconnectAction``
+* *test.connect.ExtendedConnectTest* - test of ``ExtendedConnectAction``
+* *test.connectionlabels.ConnectionLabelsTest* - how to attach labels to ``ConnectionWidget``
+* *test.connectionlabels.LabelsWithSameAnchorTest* - test for issue #121215 - Labels Overlap
+* *test.constraint.ConstraintsTest* - how to use widget constraints
+* *test.context.ContextTest* - test of mouse-cursor context resolving
+* *test.controlpoint.AddRemoveControlPointTest* - how to use ``AddRemoveControlPointAction`` and ``MoveControlPointAction``
+* *test.controlpoint.ControlPointsCursorTest* - test of ``ConnectionWidget.controlPointsCursor`` property
+* *test.convolve.ConvolveTest* - how to use ``ConvolveWidget``
+* *test.custom.CustomWidgetTest* - how to create a custom widget
+* *test.devolve.DevolveTest* - how to use scene-layout
+* *test.enable.EnableTest* - how to use ``Widget.setEnable`` method
+* *test.expand.MouseOverExpandTest* - how to create expand/collapse details functionality
+* *test.expand.ProxyAnchorExpandTest* - how to use proxy anchor for expanding/collapsing functionality
+* *test.freeconnect.FreeConnectTest* - how to ``AddRemoveControlPointAction``, ``FreeConnectionWidget``, ``FreeRectangularAnchor`` and ``FreeRouter``
+* *test.general.GraphSceneTest* - how to use ``GraphScene``
+* *test.graph.GraphRemoveTest* - test of ``GraphPinScene.remove*WithEdges``
+* *test.graph.GraphTest* - test of bug fix on ``GraphScene.removeNode``
+* *test.graph.LoopEdgeTest* - how to create a loop edge
+* *test.graphlayout.GridGraphLayoutTest* - how to use ``GridGraphLayout``
+* *test.graphlayout.TreeGraphLayoutTest* - how to implement graph-oriented scene layout
+* *test.huge.HugeTest* - similar to javaone.demo5.ManyObjectsDemo
+* *test.inplace.ExpansionDirectionsTest* - how to specify expansion directions for ``TextFieldInplaceEditor``
+* *test.inplace.InplaceEditorTest* - how to use ``TextFieldInplaceEditor``
+* *test.inplace.InvokeInplaceEditorTest* - how to invoke in-place editor programatically
+* *test.inplace.JustifyAlignmentTest* - test in-place text editor with justify layout of labels with right alignment
+* *test.inplace.RequestFocusTest* - test of bugfix #96348 - requestFocus is not forwarded while editor is closing
+* *test.justify.JustifyTest* - test of layout justification
+* *test.keyboard.EnterKeyProcessingTest* - test of processing enter key
+* *test.keyboard.EnterKeyTest* - test of cooperation of Swing with an enter key processing within in-place editor
+* *test.keyboard.KeyboardTest* - test of ``CycleObjectSceneFocusAction``
+* *test.label.LabelGlyphVectorTest* - test of ``LabelWidget`` rendering using glyph vector
+* *test.label.LabelOrientationTest* - test of orientation vs. alignment of text in ``LabelWidget``
+* *test.layout.CardLayoutWithLabelTest* - how to create non-jumping widget with card layout and label widget as child
+* *test.layout.FlowLayoutTest* - test of bugfix #105400 - FlowLayout does not work correctly with negative location of child widgets
+* *test.layout.MinMaxFlowLayoutTest* - test of ``FlowLayout`` cooperation with minimal size
+* *test.layout.OverlayLayoutWidgetTest* - test of justification of ``OverlayLayout``
+* *test.layout.WeightFlowLayoutTest* - how to use weights in ``FlowLayout``
+* *test.list.ListTest* - how to use ``ListWidget`` and ``ListItemWidget``
+* *test.listeners.ObjectSceneListenerTest* - how to use ``ObjectSceneListener``
+* *test.lod.LevelOfDetailsTest* - how to use ``LevelOfDetailsWidget``
+* *test.lod.TwoLimitsLevelOfDetailsTest* - test of bugfix #123711 - Fade between soft/hard max in LevelOfDetailsWidget
+* *test.move.SnapToGridTest* - how to use snap-to-grid move strategy
+* *test.multiline.MultiLineTest* - how to create a multi-line label using ``JLabel``
+* *test.multiview.MultiViewTest* - how to create satellite views
+* *test.multiview.MultiViewTableTest* - how to create satellite views
+* *test.object.MultiMoveActionTest* - how to implement ``MoveAction`` for multiple objects
+* *test.object.MultipleWidgetsTest* - how to use ``ObjectScene`` for 1-N mapping between objects and widgets
+* *test.object.ObjectTest* - how to use ``ObjectScene``
+* *test.order.ReverseOrderWidgetDependencyTest* - how to implement a connection widget behind a related widgets
+* *test.repaint.RepaintTest* - test of bugfix of repaint of ``ConnectionWidget``
+* *test.resize.ResizeTest* - how to use ``ResizeAction``
+* *test.router.OSRCollisionsCollectorTest* - test of bugfix #96462 - Incorrectly routed path by OrthogonalSearchRouter when a target in collision region
+* *test.router.OSRComputeControlPointsTest* - test of bugfix #96460 - Wrong control points computation in OrthogonalSearchRouter
+* *test.routing.ActionsWithRoutingPolicyTest* - how to use routing policy with ``AddRemoveControlPointAction`` and ``MoveControlPointAction``
+* *test.routing.RoutingPolicyTest* - how to use routing policy of ``ConnectionWidget``
+* *test.sceneresize.LimitedSceneTest* - test of cooperation of ``OrthogonalSearchRouter`` with ``Scene.maximumBounds`` property
+* *test.sceneresize.SceneResizeTest* - test of bugfix #84604 - scene resize based on Scene view component
+* *test.scroll.ScrollTest* - how to use ``ScrollWidget`` for scrollable view
+* *test.scroll.SwingScrollTest* - how to use ``SwingScrollWidget`` for scrollable view which uses ``JScrollBar`` from Swing
+* *test.serialization.SceneSerializerTest* - how to implement serialization of graph scene where nodes and edges are represented as Long objects
+* *test.swing.JButtonWidgetTest* - how to implement zoom-able JButton
+* *test.swingborder.SwingBorderTest* - how to use borders for Swing
+* *test.tool.CtrlKeySwitchToolTest* - how to create active-tool switching using ctrl key
+* *test.tool.ToolTest* - how to use action-tools
+* *test.view.OffscreenRenderingTest* - how to off-screen render a scene
+* *test.view.TooltipTest* - test of tool-tips
+* *test.visible.NotifyAddedRemovedTest* - test of ``Widget.notifyAdded`` and ``Widget.notifyRemoved`` methods
+* *test.visible.VisibilityTest* - compatibility test of ``Layout`` implementations with ``Widget.visible`` property
+* *test.vmd.VMDCollisionTest* - test of ``WidgetCollisionCollector``
+* *test.vmd.VMDColorSchemeTest* - how to use ``VMDColorScheme``
+* *test.vmd.VMDTest* - how to use *VMD* plug-in
+* *test.widget.AnimatedImageTest* - test of animated image in ImageWidget
+* *test.widget.ConnectionWidgetCutDistanceTest* - how to use control point cut distance in ``ConnectionWidget``
+* *test.widget.ConnectionWidgetOrderTest* - test of widget order using connection widgets
+* *test.widget.IconNodeHeaderTest* - how to implement relative header to an IconNodeWidget
+* *test.widget.RelativeDecorationTest* - how to implement decoration relatively to widget location
+* *test.zoom.CenteredZoomTest* - how to use ``CenteredZoomAction``
+* *test.zoom.FitToViewTest* - how to implement fit-to-view feature
+* *test.zoom.MouseCenteredZoomTest* - how to use ``MouseCenteredZoomAction``
