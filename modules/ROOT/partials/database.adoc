@@ -27,3 +27,9 @@
 
 //jni homepage
 :jnispec: https://docs.oracle.com/en/java/javase/11/docs/specs/jni/index.html
+
+//
+
+:apidoclink: https://bits.netbeans.org/dev/javadoc/
+:templaterepository: https://github.com/apache/netbeans-samples/tree/main/
+:sourcesubs: quotes,macros,attributes
