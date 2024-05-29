@@ -28,6 +28,12 @@
 
 Older Apache NetBeans releases can still be downloaded, but are no longer supported.
 
+== Apache NetBeans 21
+
+Apache NetBeans 21 was released on February 24, 2024
+
+link:https://github.com/apache/netbeans/releases/tag/21[Features, role="button"] xref:download/nb21/index.adoc[Download, role="button success"]
+
 == Apache NetBeans 20
 
 Apache NetBeans 20 was released on December 1, 2023
