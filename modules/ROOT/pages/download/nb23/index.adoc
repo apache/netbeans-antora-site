@@ -23,22 +23,24 @@ See https://www.apache.org/dev/release-download-pages.html
 for important requirements for download pages for Apache projects.
 
 ////
-= Downloading Apache NetBeans 22
+= Downloading Apache NetBeans 23
 :page-layout: page_noaside
 :page-tags: download
 :jbake-status: published
-:keywords: Apache NetBeans 22 Download
-:description: Apache NetBeans 22 Download
+:keywords: Apache NetBeans 23 Download
+:description: Apache NetBeans 23 Download
 :toc: left
 :toc-title:
 :icons: font
 
 // check version above
-:netbeans-version: 22
+:netbeans-version: 23
 
 // base URLs - when archiving, delete the next 2 lines and uncomment the following 2
-:url-download: https://archive.apache.org/dist/netbeans/
-:url-download-keychecksum: https://archive.apache.org/dist/netbeans/
+:url-download: https://www.apache.org/dyn/closer.lua/netbeans/
+:url-download-keychecksum: https://downloads.apache.org/netbeans/
+// :url-download: https://archive.apache.org/dist/netbeans/
+// :url-download-keychecksum: https://archive.apache.org/dist/netbeans/
 
 //// 
 url-download depends of release status archived or not
@@ -103,11 +105,13 @@ Foundation. They may include other contents (eg. JDK) under additional license t
 
 == Deployment Platforms
 
-The Apache NetBeans {netbeans-version} binary releases require JDK 17+, and officially support running on JDK 17, 21 and 22.
+The Apache NetBeans {netbeans-version} binary releases require JDK 17+, and officially support running on JDK 17, 21 and 23.
 
 TIP: The Runtime JDK NetBeans uses does not influence the JDK range projects can use.
 
 == Known Issues
+
+* NetBeans 23+ does no longer support String Templates, link:https://github.com/apache/netbeans/discussions/7620[more info]
 
 * On windows you may encounter the following JDK issue: "Comparison method violates its general contract"
 +
