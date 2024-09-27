@@ -32,7 +32,7 @@ Older Apache NetBeans releases can still be downloaded, but are no longer suppor
 
 Apache NetBeans 22 was released on May 29, 2024
 
-link:https://github.com/apache/netbeans/releases/tag/22[Features, role="button"] xref:download/nb21/index.adoc[Download, role="button success"]
+link:https://github.com/apache/netbeans/releases/tag/22[Features, role="button"] xref:download/nb22/index.adoc[Download, role="button success"]
 
 == Apache NetBeans 21
 
