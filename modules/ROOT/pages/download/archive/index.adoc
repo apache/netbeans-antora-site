@@ -28,6 +28,12 @@
 
 Older Apache NetBeans releases can still be downloaded, but are no longer supported.
 
+== Apache NetBeans 23
+
+Apache NetBeans 23 was released on September 19, 2024
+
+link:https://github.com/apache/netbeans/releases/tag/23[Features, role="button"] xref:download/nb23/index.adoc[Download, role="button success"]
+
 == Apache NetBeans 22
 
 Apache NetBeans 22 was released on May 29, 2024
