@@ -23,21 +23,24 @@ See https://www.apache.org/dev/release-download-pages.html
 for important requirements for download pages for Apache projects.
 
 ////
-= Downloading Apache NetBeans 23
+= Downloading Apache NetBeans 24
 :page-layout: page_noaside
 :page-tags: download
 :jbake-status: published
-:keywords: Apache NetBeans 23 Download
-:description: Apache NetBeans 23 Download
+:keywords: Apache NetBeans 24 Download
+:description: Apache NetBeans 24 Download
 :toc: left
 :toc-title:
 :icons: font
 
 // check version above
-:netbeans-version: 23
+:netbeans-version: 24
 
-:url-download: https://archive.apache.org/dist/netbeans/
-:url-download-keychecksum: https://archive.apache.org/dist/netbeans/
+// base URLs - when archiving, delete the next 2 lines and uncomment the following 2
+:url-download: https://www.apache.org/dyn/closer.lua/netbeans/
+:url-download-keychecksum: https://downloads.apache.org/netbeans/
+// :url-download: https://archive.apache.org/dist/netbeans/
+// :url-download-keychecksum: https://archive.apache.org/dist/netbeans/
 
 //// 
 url-download depends of release status archived or not
@@ -49,7 +52,7 @@ https://archive.apache.org/dist/netbeans/  (//archived)
 https://downloads.apache.org/netbeans/ (//current)
 ////
 
-Apache NetBeans {netbeans-version} was released on September 19, 2024.
+Apache NetBeans {netbeans-version} was released on December 10, 2024.
 ////
 NOTE: It's mandatory to link to the source. It's optional to link to the binaries.
 NOTE: It's mandatory to link against https://www.apache.org for the sums & keys. https is recommended.
@@ -131,8 +134,8 @@ in a directory of your liking.
 As in any other Apache Project, the Apache NetBeans Community approved this release
 through the following voting processes in our xref:community/mailing-lists.adoc[mailing lists]:
 
-- link:https://lists.apache.org/thread/rvw8f43lgbpjmpqmdwq1cbkcnpf3ryyv[PMC vote]
-- link:https://lists.apache.org/thread/5lq00jf5r8gwl4mt6qmmy5xzn6okf7fg[PMC vote result]
+- link:https://lists.apache.org/thread/ko7vj4otmkfwdcr7hrzkmdqs13tvsxzx[PMC vote]
+- link:https://lists.apache.org/thread/r46xk5ydr2ln0wy109znh4kzq97nhkk4[PMC vote result]
 
 == Earlier Releases
 
