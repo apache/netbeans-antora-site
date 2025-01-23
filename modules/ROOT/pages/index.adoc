@@ -1,65 +1,52 @@
-////
-     Licensed to the Apache Software Foundation (ASF) under one
-     or more contributor license agreements.  See the NOTICE file
-     distributed with this work for additional information
-     regarding copyright ownership.  The ASF licenses this file
-     to you under the Apache License, Version 2.0 (the
-     "License"); you may not use this file except in compliance
-     with the License.  You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-     Unless required by applicable law or agreed to in writing,
-     software distributed under the License is distributed on an
-     "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
-     KIND, either express or implied.  See the License for the
-     specific language governing permissions and limitations
-     under the License.
-////
-= Welcome to Apache NetBeans
-:page-layout: page_front
-:page-tags: main
-:jbake-status: published
-:keywords: Apache NetBeans
-:icons: font
-:description: Apache NetBeans
-:note: The 'hero' tags below enable the 'hero' area in the page.gsp template
-:hero.top: Version 11.1
-:hero.title: Apache NetBeans
-:hero.subtitle: Fits the Pieces Together
-
-// See https://fontawesome.com/icons?d=gallery for more icons (not all of those are available, though)
-
-[.cards]
-****
-
-// Add cards as you see fit below. Try not to repeat consecutive colors.
-
-[.card.blue]
-.icon:edit[] Fast & Smart Editing
-Apache NetBeans is much more than a text editor. It highlights source code xref:tutorial::kb/docs/java/editor-codereference.adoc[syntactically and semantically], lets you easily xref:tutorial::kb/docs/java/editor-inspect-transform.adoc[refactor code], with a range of handy and powerful tools.
-
-[.card.green]
-.icon:wrench[] Java, JavaScript, PHP, HTML5, CSS, and More
-Apache NetBeans provides editors, wizards, and templates to help you create applications in xref:tutorial::kb/docs/java/index.adoc[Java], xref:tutorial::kb/docs/php/index.adoc[PHP] and many other languages.
-
-[.card.magenta]
-.icon:download[] Cross Platform
-Apache NetBeans can be xref:download/index.adoc[installed] on all operating systems that support Java, i.e, Windows, Linux, Mac OSX and BSD. Write Once, Run Anywhere, applies to NetBeans too. 
-
-[.card.green]
-.icon:users[] Join us
-Subscribe to our xref:community/mailing-lists.adoc[mailing lists], or follow us in link:https://twitter.com/netbeans[Twitter], link:https://tinyurl.com/netbeans-slack-signup/[Slack], link:https://www.facebook.com/NetBeans[FaceBook] or link:https://www.youtube.com/user/netbeansvideos[YouTube].
-
-[.card.magenta]
-.icon:arrow-right[] Participate
-See how you can participate by xref:participate/submit-pr.adoc[submitting pull requests], xref:participate/report-issue.adoc[filing issues], or joining the link:https://cwiki.apache.org/confluence/display/NETBEANS/NetCAT[NetCAT] program.
-
-[.card.blue]
-.icon:book[] Learn
-We are currently reviewing the tutorials. See how you can xref:tutorial::kb/docs/contributing.adoc[help us] review the xref:tutorial::kb/docs/java/index.adoc[Java] and xref:tutorial::kb/docs/php/index.adoc[PHP] tutorials.
 
 
-****
+        // Pounds to Kilograms
+        double pounds = 150.0;
+        double kilograms = pounds * 0.453592;
+        System.out.println("Pounds: " + pounds);
+        System.out.println("Kilograms: " + kilograms);
 
+        // Miles to Kilometers
+        double miles = 26.2;
+        double kilometers = miles * 1.60934;
+        System.out.println("Miles: " + miles);
+        System.out.println("Kilometers: " + kilometers);
 
+        // Fahrenheit to Celsius
+        double fahrenheit = 98.6;
+        double celsius = (fahrenheit - 32) * 5/9;
+        System.out.println("Fahrenheit: " + fahrenheit);
+        System.out.println("Celsius: " + celsius);
+
+        // Average Age of Students
+        int student1Age = 18;
+        int student2Age = 19;
+        int student3Age = 20;
+        int student4Age = 18;
+        int student5Age = 17;
+        int student6Age = 21;
+        int student7Age = 19;
+        int student8Age = 20;
+        int student9Age = 18;
+        int student10Age = 19;
+        int totalAge = student1Age + student2Age + student3Age + student4Age + student5Age + 
+                student6Age + student7Age + student8Age + student9Age + student10Age;
+        double averageAge = totalAge / 10.0;
+        System.out.println("Student Ages: " + student1Age + ", " + student2Age + ", " + student3Age 
+                + ", " + student4Age + ", " + student5Age + ", " + student6Age + ", " + student7Age 
+                + ", " + student8Age + ", " + student9Age + ", " + student10Age);
+        System.out.println("Average Age: " + averageAge);
+
+        // Fantasy Story
+        String heroName = "Aether";
+        String villainName = "Erebos";
+        String magicalItem = "The Eye of Eternity";
+        String legendaryWeapon = "Voidbringer";
+        String powerfulAbility = "Chronomancy";
+        String story = "In the realm of Atheria, the valiant hero, " + heroName + ", embarked on a perilous journey to confront the formidable " + villainName 
+                + ". Armed with the legendary " + legendaryWeapon + " and seeking the guidance of " + magicalItem + ", " + heroName 
+                + " sought to master the ancient art of " + powerfulAbility + " to defeat the darkness that threatened to consume the land.";
+        System.out.println(story);
+
+    }
+}
