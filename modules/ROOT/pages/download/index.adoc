@@ -39,7 +39,8 @@ Apache NetBeans is released four times a year. For details, see link:https://cwi
 
 == Apache NetBeans 25
 
-Latest version of the IDE, released on December 10, 2024.
+Latest version of the IDE, released on February 20, 2025.
+// TODO date                           ^^^^
 
 xref:download/nb25/index.adoc[Download, role="button success"]
 
