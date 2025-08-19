@@ -23,23 +23,26 @@ See https://www.apache.org/dev/release-download-pages.html
 for important requirements for download pages for Apache projects.
 
 ////
-= Downloading Apache NetBeans 26
+= Downloading Apache NetBeans 27
 :page-layout: page_noaside
 :page-tags: download
 :jbake-status: published
-:keywords: Apache NetBeans 26 Download
-:description: Apache NetBeans 26 Download
+:keywords: Apache NetBeans 27 Download
+:description: Apache NetBeans 27 Download
 :toc: left
 :toc-title:
 :icons: font
 
 // check version above and follow the TODOs
-:netbeans-version: 26
+:netbeans-version: 27
 // TODO            ^^
 
 // https://infra.apache.org/release-distribution.html#download-links
-:url-download: https://archive.apache.org/dist/netbeans/
-:url-download-keychecksum: https://archive.apache.org/dist/netbeans/
+// TODO base URLs - when archiving, delete the next 2 lines and uncomment the following 2
+:url-download: https://www.apache.org/dyn/closer.lua/netbeans/
+:url-download-keychecksum: https://downloads.apache.org/netbeans/
+// :url-download: https://archive.apache.org/dist/netbeans/
+// :url-download-keychecksum: https://archive.apache.org/dist/netbeans/
 
 //// 
 url-download depends of release status archived or not
@@ -51,7 +54,7 @@ https://archive.apache.org/dist/netbeans/  (//archived)
 https://downloads.apache.org/netbeans/ (//current)
 ////
 
-Apache NetBeans {netbeans-version} was released on May 19, 2025.
+Apache NetBeans {netbeans-version} was released on August 21, 2025.
 // TODO update date                                ^^^^
 
 ////
@@ -92,7 +95,7 @@ They may include other contents (eg. JDK) under additional license terms.
 
 == Deployment Platforms
 
-Apache NetBeans {netbeans-version} supports running on JDK 24, 21 or 17.
+Apache NetBeans {netbeans-version} supports running on JDK 25, 24, 21 or 17.
 
 TIP: The Runtime JDK NetBeans uses does not influence the JDK range projects can use.
 
@@ -104,7 +107,9 @@ TIP: Use the latest JDK update release for the best experience (see link:https:/
 
 * On windows you may encounter the following JDK issue: "Comparison method violates its general contract"
 +
-resolution: use latest JDK update release, link:https://github.com/apache/netbeans/discussions/6361[more info]
+resolution: use latest JDK update release, link:https://github.com/apache/netbeans/discussions/6361[#6361]
+
+* If you encounter problems on windows during RDP sessions (link:https://github.com/apache/netbeans/issues/8236[#8236]) or while using UNC paths (link:https://github.com/apache/netbeans/issues/8611[#8611]), try running NetBeans on latest JDK 21
 
 * Windows/ARM is currently not a fully supported platform
 
@@ -123,8 +128,8 @@ in a directory of your liking.
 As in any other Apache Project, the Apache NetBeans Community approved this release
 through the following voting processes in our xref:community/mailing-lists.adoc[mailing lists]:
 
-- link:https://lists.apache.org/thread/mlcr6sps1t0dgcc8srd34f60fkpjgvzl[PMC vote]
-- link:https://lists.apache.org/thread/z63j86norwygvj51wzozsdxzwfc72zmy[PMC vote result]
+- link:https://lists.apache.org/thread/fwd00m5mpwo5kshz544hr21zfzz9zxvh[PMC vote]
+- link:https://lists.apache.org/thread/toh6xd32v35vjrwynsdwwgcq5xzxd7df[PMC vote result]
 // TODO update links                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 == Earlier Releases
