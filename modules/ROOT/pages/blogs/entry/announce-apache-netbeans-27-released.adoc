@@ -1,0 +1,60 @@
+// 
+//     Licensed to the Apache Software Foundation (ASF) under one
+//     or more contributor license agreements.  See the NOTICE file
+//     distributed with this work for additional information
+//     regarding copyright ownership.  The ASF licenses this file
+//     to you under the Apache License, Version 2.0 (the
+//     "License"); you may not use this file except in compliance
+//     with the License.  You may obtain a copy of the License at
+// 
+//       http://www.apache.org/licenses/LICENSE-2.0
+// 
+//     Unless required by applicable law or agreed to in writing,
+//     software distributed under the License is distributed on an
+//     "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+//     KIND, either express or implied.  See the License for the
+//     specific language governing permissions and limitations
+//     under the License.
+//
+
+= [ANNOUNCE] Apache NetBeans 27 Released
+:author: Eric Barboni
+:page-revdate: 2025-08-21
+:page-layout: blogentry
+:page-tags: blogentry
+:jbake-status: published
+:keywords: Apache NetBeans 27 release
+:description: Apache NetBeans 27 release
+:toc: left
+:toc-title:
+:page-syntax: true
+
+
+The Apache NetBeans team is pleased to announce that Apache NetBeans 27 was released on August 21, 2025.
+
+Apache NetBeans is a Java-based IDE, Tooling Platform and Application Framework.
+
+This is the third release of 2025 in our regular quarterly release schedule.
+
+Please note, as of Apache NetBeans 26, no installers will be provided directly from Apache. 
+Community provided installers are listed on the main download page.
+
+What's in the Apache NetBeans 27 release:
+
+https://github.com/apache/netbeans/releases/tag/27
+
+With thanks to 23 contributors, including 2 who have contributed for the first time. Thank you!
+
+Downloads:
+
+xref:download/nb27/index.adoc[Apache NetBeans 27 Download page]
+
+See our release schedule:
+
+https://cwiki.apache.org/confluence/display/NETBEANS/Release+Schedule
+
+Feel free to share the good news!
+
+Thanks everyone, and best wishes,
+
+The Apache NetBeans team
