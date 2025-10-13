@@ -329,7 +329,7 @@ a|image::community/contributor-kirk-pepperdine.png[] a| * apache id: kirk-pepper
 |=== 
 a|=== Lars Bruun-Hansen| 
 a|image::community/contributor-lbruun.png[] a| * apache id: lbruun
-* Sweden
+* Denmark
 |===
 
 [width="70%"]
