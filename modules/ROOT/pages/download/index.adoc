@@ -37,12 +37,12 @@ for important requirements for download pages for Apache projects.
 
 Apache NetBeans is released four times a year. For details, see link:https://cwiki.apache.org/confluence/display/NETBEANS/Release+Schedule[full release schedule].
 
-== Apache NetBeans 27
+== Apache NetBeans 28
 
-Latest version of the IDE, released on August 21, 2025.
+Latest version of the IDE, released on November 10, 2025.
 // TODO date                           ^^^^
 
-xref:download/nb27/index.adoc[Download, role="button success"]
+xref:download/nb28/index.adoc[Download, role="button success"]
 
 == Older releases
 
