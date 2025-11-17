@@ -84,6 +84,10 @@ The PGP keys used to sign this release are available link:https://downloads.apac
 
 == Installers and Packages
 
+- link:https://www.codelerity.com/netbeans/[Codelerity packages] - Windows, macOS and
+Linux (.deb / .rpm) built with
+link:https://github.com/apache/netbeans-nbpackage/[NBPackage]. All include a local Temurin JDK
+for the IDE to run on, for a self-contained out-of-the-box experience.
 //- link:https://installers.friendsofapachenetbeans.org/[Friends of Apache NetBeans] - Windows, macOS and
 //Linux (.deb / .rpm) built with link:https://github.com/apache/netbeans-nbpackage/[NBPackage].
 //All include a local JDK runtime for the IDE to run on, for a self-contained out-of-the-box experience.
