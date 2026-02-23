@@ -28,6 +28,12 @@
 
 Older Apache NetBeans releases can still be downloaded, but are no longer supported.
 
+== Apache NetBeans 28
+
+Apache NetBeans 28 was released on November 10, 2025
+
+link:https://github.com/apache/netbeans/releases/tag/28[Features, role="button"] xref:download/nb28/index.adoc[Download, role="button success"]
+
 == Apache NetBeans 27
 
 Apache NetBeans 27 was released on August 21, 2025
