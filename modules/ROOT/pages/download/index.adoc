@@ -37,12 +37,12 @@ for important requirements for download pages for Apache projects.
 
 Apache NetBeans is released four times a year. For details, see link:https://cwiki.apache.org/confluence/display/NETBEANS/Release+Schedule[full release schedule].
 
-== Apache NetBeans 31
+== Apache NetBeans 32
 
 Latest version of the IDE, released on August 10, 2026.
 // TODO date                           ^^^^
 
-xref:download/nb31/index.adoc[Download, role="button success"]
+xref:download/nb32/index.adoc[Download, role="button success"]
 
 == Older releases
 
