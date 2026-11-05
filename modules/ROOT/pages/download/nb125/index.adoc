@@ -88,7 +88,7 @@ The full list of pull requests integrated in the 12.5 timeframe link:https://git
 == Miscellaneous Enhancements
 
 === General
-- LSP: Find usages should search also in project dependecies. LSP: https://github.com/apache/netbeans/pull/2950
+- LSP: Find usages should search also in project dependencies. LSP: https://github.com/apache/netbeans/pull/2950
 - [NETBEANS-5492] change test proxy connection url to apache: https://github.com/apache/netbeans/pull/2830
 - [NETBEANS-5698] Fix tabcontrol painting on MacOS retina displays (Aqua LAF): https://github.com/apache/netbeans/pull/2970
 - [NETBEANS-4953] Fixing handling of WSL-based URIs.: https://github.com/apache/netbeans/pull/2988
