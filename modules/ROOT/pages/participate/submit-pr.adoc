@@ -40,7 +40,7 @@ We appreciate new contributors to adhere to the following guidelines, to make th
 . All commits must contain a meaningful commit message.
   A meaningful commit message holds in the first line a summary of the commit and in the body (beginning on the third-line) an explanation of what was changed and why it was done.
   Remember that in the future this commit message is most probably the only source of information why a change was committed to the code base.
-  If the commit fixes a reported issue, the summary line should hold the issue number and title `[NETBEANS-XXX] Maven pom.xml file corrupted after inserting dependecies` for example.
+  If the commit fixes a reported issue, the summary line should hold the issue number and title `[NETBEANS-XXX] Maven pom.xml file corrupted after inserting dependencies` for example.
 . A Pull Request can consist of multiple commits. These commits should group the changes into meaningful entities. Fixup commits should be squashed into the base commit they fix.
 . For contributors: Be prepared to be asked questions about your PR
   - A reviewer might have questions and you should be able to answer why you did a fix in a certain way and why it is safe and appropriate.
