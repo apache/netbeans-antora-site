@@ -34,7 +34,7 @@ The Apache NetBeans team is pleased to announce that Apache NetBeans 32 was rele
 
 Apache NetBeans is a Java-based IDE, Tooling Platform and Application Framework.
 
-This is the forth release of 2026 in our regular quarterly release schedule.
+This is the fourth release of 2026 in our regular quarterly release schedule.
 
 Community provided installers are listed on the main download page.
 
