@@ -105,9 +105,7 @@ TIP: Use the latest JDK update release for the best experience (see link:https:/
 
 == Known Issues
 
-* NetBeans 23+ does no longer support String Templates, link:https://github.com/apache/netbeans/discussions/7620[more info]
-
-* If you encounter problems on windows during RDP sessions (link:https://github.com/apache/netbeans/issues/8236[#8236]) or while using UNC paths (link:https://github.com/apache/netbeans/issues/8611[#8611]), try running NetBeans on latest JDK 21
+* If you encounter problems on windows while using UNC paths (link:https://github.com/apache/netbeans/issues/8611[#8611]), try running NetBeans on latest JDK 21
 
 * Windows/ARM is currently not a fully supported platform
 
